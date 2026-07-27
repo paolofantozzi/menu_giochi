@@ -10,19 +10,12 @@ const gamesData = [
     "language_dependence": "No necessary in-game text",
     "age": "10+",
     "best_players": "4,5",
+    "image_url": "https://cf.geekdo-images.com/35h9Za_JvMMMtx_92kT0Jg__original/img/jt70jJDZ1y1FWJs4ZQf5FI8APVY=/0x0/filters:format(jpeg)/pic7149798.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/35h9Za_JvMMMtx_92kT0Jg__small/img/BUOso8b0M1aUOkU80FWlhE8uuxc=/fit-in/200x150/filters:strip_icc()/pic7149798.jpg",
+    "description": "You are the leader of one of the 7 great cities of the Ancient World. Gather resources, develop commercial routes, and affirm your military supremacy. Build your city and erect an architectural wonder which will transcend future times.\n\n7 Wonders lasts three ages. In each age, players receive seven cards from a particular deck, choose one of those cards, then pass the remainder to an adjacent player. Players reveal their cards simultaneously, paying resources if needed or collecting resources or interacting with other players in various ways. (Players have individual boards with special powers on which to organize their cards, and the boards are double-sided). Each player then chooses another card from the deck they were passed, and the process repeats until players have six cards in play from that age. After three ages, the game ends.\n\nIn essence, 7 Wonders is a card development game. Some cards have immediate effects, while others provide bonuses or upgrades later in the game. Some cards provide discounts on future purchases. Some provide military strength to overpower your neighbors and others give nothing but victory points. Each card is played immediately after being drafted, so you'll know which cards your neighbor is receiving and how her choices might affect what you've already built up. Cards are passed left-right-left over the three ages, so you need to keep an eye on the neighbors in both directions.\n\nThough the box of earlier editions is listed as being for 3&ndash;7 players, there is an official 2-player variant included in the instructions.",
+    "categories": "Ancient, Card Game, City Building, Civilization, Economic",
+    "mechanics": "Closed Drafting, End Game Bonuses, Hand Management, Melding and Splaying, Multi-Use Cards, Neighbor Scope, Once-Per-Game Abilities, Score-and-Reset Game, Set Collection, Simultaneous Action Selection, Tags, Tech Trees / Tech Tracks, Variable Player Powers, Variable Set-up",
     "expansions": [
-      {
-        "name": "7 Wonders Duel: Pantheon",
-        "itemtype": "expansion",
-        "minplayers": 2,
-        "maxplayers": 2,
-        "minplaytime": 30,
-        "maxplaytime": 30,
-        "year": "2016",
-        "language_dependence": "No necessary in-game text",
-        "age": "10+",
-        "best_players": "2"
-      },
       {
         "name": "7 Wonders: Cities",
         "itemtype": "expansion",
@@ -33,7 +26,12 @@ const gamesData = [
         "year": "2012",
         "language_dependence": "No necessary in-game text",
         "age": "10+",
-        "best_players": "4,5"
+        "best_players": "4,5",
+        "image_url": "https://cf.geekdo-images.com/P1kQ0kQIoulihI9KlBh4MQ__original/img/NrP-hKXMjJ0poBOQ9_k2DLR8L7E=/0x0/filters:format(jpeg)/pic1380423.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/P1kQ0kQIoulihI9KlBh4MQ__small/img/a8r8IJ69_I4PPUCztFsottowdfQ=/fit-in/200x150/filters:strip_icc()/pic1380423.jpg",
+        "description": "7 Wonders: Cities, the second expansion for 7 Wonders, includes optional team rules, adds an 8th player (base game supports 7 players), a new type of card (black, representing the remains of cities), and new cards of old types (two new wonders: Petras and Byzantium, 3 new guild and 6 new leader cards). This expansion is more aggressive, with greatly increased interaction between players, who are still trying to score more points than anyone else.\n\nWith the team rules, you can play with up to eight players, with the players divided into teams who sit next to one another so that they can kibitz and choose the cards of most use to them.\n\nThe new black cards have a variety of effects, with nine cards being available in each age. Effects include:\n\n    The active player gaining gold, with his neighbors also gaining a bit.\n    Increased military strength in age 1 at a greater cost.\n    Embassy cards that remove you from the military competition for that age.\n    Cemetery cards that earn you points at the end of the game while costing opponents gold.\n    Spy cards that copy symbols from green (science) cards.\n    A secret warehouse that doubles a resource and a black market that generates a missing resource.\n    The ability to build cards for free by copying building chains from other players.\n\n\nThe 6 new leader cards can only be played with 7 Wonders: Leaders.",
+        "categories": "Ancient, Card Game, City Building, Civilization, Expansion for Base-game",
+        "mechanics": "Closed Drafting, Hand Management, Set Collection, Simultaneous Action Selection, Team-Based Game, Variable Player Powers"
       }
     ]
   },
@@ -48,7 +46,30 @@ const gamesData = [
     "language_dependence": "No necessary in-game text",
     "age": "10+",
     "best_players": "2",
-    "expansions": []
+    "image_url": "https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__original/img/Ju836WNSaW7Mab9Vjq2TJ_FqhWQ=/0x0/filters:format(jpeg)/pic2576399.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__small/img/gV1-ckZSIC-dCxxpq1Y7GmPITzQ=/fit-in/200x150/filters:strip_icc()/pic2576399.jpg",
+    "description": "In many ways 7 Wonders Duel resembles its parent game 7 Wonders. Over three ages, players acquire cards that provide resources or advance their military or scientific development in order to develop a civilization and complete wonders. What's different about 7 Wonders Duel is that, as the title suggests, the game is solely for two players.\n\nPlayers do not draft cards simultaneously from decks of cards, but from a display of face-down and face-up cards arranged at the start of a round. A player can take a card only if it's not covered by any others, so timing comes into play, as it can with bonus moves that allow the player to take a second card immediately. As in the original game, each acquired card can be built, discarded for coins, or used to construct a wonder. Each player also starts with four wonder cards, and the construction of a wonder provides its owner with a special ability. Only seven wonders can be built, though, so one player will end up short.\n\nPlayers can purchase resources at any time from the bank, or they can gain cards during the game that provide them with resources for future building; as they are acquired, the cost for those resources increases for the opponent, representing the owner's dominance in this area.\n\nYou can win 7 Wonders Duel in one of three ways: each time you acquire a military card, you advance the military marker toward your opponent's capital (also giving you a bonus at certain positions). If you reach the opponent's capital, you win the game immediately. Or if you acquire six of seven different scientific symbols, you achieve scientific dominance and win immediately. If none of these situations occurs, then the player with the most points at the end of the game wins.",
+    "categories": "Ancient, Card Game, City Building, Civilization, Economic",
+    "mechanics": "End Game Bonuses, Income, Melding and Splaying, Modular Board, Multi-Use Cards, Once-Per-Game Abilities, Open Drafting, Score-and-Reset Game, Set Collection, Sudden Death Ending, Tags, Tech Trees / Tech Tracks, Track Movement, Tug of War, Variable Set-up",
+    "expansions": [
+      {
+        "name": "7 Wonders Duel: Pantheon",
+        "itemtype": "expansion",
+        "minplayers": 2,
+        "maxplayers": 2,
+        "minplaytime": 30,
+        "maxplaytime": 30,
+        "year": "2016",
+        "language_dependence": "No necessary in-game text",
+        "age": "10+",
+        "best_players": "2",
+        "image_url": "https://cf.geekdo-images.com/iQRqtxgRuh-4J5vYLdhsMg__original/img/rwOQ9RK6_C9gIy-g_dgkdF6Mb7Y=/0x0/filters:format(png)/pic3143885.png",
+        "thumbnail_url": "https://cf.geekdo-images.com/iQRqtxgRuh-4J5vYLdhsMg__small/img/7KX-iJ5e3ZW0LnbEd9OQHRSpHG8=/fit-in/200x150/filters:strip_icc()/pic3143885.png",
+        "description": "A pantheon from several civilizations &mdash; including Greek, Egyptian, and Middle-Eastern &mdash; gets added to 7 Wonders Duel in 7 Wonders Duel: Pantheon, with each god having its own power to help you or hinder your opponent.\n\nDuring Age I you collect mythology tokens &mdash; which allow you to choose which deities have a place in the Pantheon &mdash; and during Age II you collect offering tokens, which help you court those deities. Then, during Ages II and III, you can activate a god or goddess in the Pantheon instead of taking a card from the pyramid. To do so, you pay whatever that god or goddess demands from you in offerings, then place it next to your city.\n\nWith Isis on your side, you can use a card from the discard pile to construct one of your Wonders for free. Zeus, whose nod determines what happens and what does not, enables you to discard any single card from the card structure that you want, as well as any mythology or offering token that may be on it. The Phoenician goddess Tanit, whose people were renowned for trade, fills your coffers with twelve pieces of gold. Enki, the Sumerian god of crafts, technology, and creation, lets you choose one of two progress tokens. Minerva's ability to stop the conflict pawn from moving toward you can assist with a military victory or save you from military defeat.\n\nWhat's more, instead of adding three guild cards to the deck for Age III, you add three of five Grand Temples. Each Grand Temple belongs to a different Mediterranean culture, and if you possess a mythology token from that culture, you can build the temple for free. These temples are worth a total of 5, 12, or 21 points, depending on how many you build.\n\n7 Wonders Duel: Pantheon also includes two new Wonders: the Sanctuary (which gives you an additional turn and allows you to invoke deities at a reduced price) and the Divine Theater (which grants points and access to additional gods).",
+        "categories": "Expansion for Base-game, Ancient, Card Game, City Building, Civilization",
+        "mechanics": "Open Drafting, Set Collection"
+      }
+    ]
   },
   {
     "name": "ASTER",
@@ -61,6 +82,11 @@ const gamesData = [
     "language_dependence": "",
     "age": "",
     "best_players": "",
+    "image_url": "https://cf.geekdo-images.com/jWklmdGKMyKN0nCjrQf2ew__original/img/LDdR1MSnBhxqtXC6bkNBG1f93WQ=/0x0/filters:format(jpeg)/pic6177951.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/jWklmdGKMyKN0nCjrQf2ew__small/img/aB9rJ6OyZEPWn_2g4Bp41opd1DA=/fit-in/200x150/filters:strip_icc()/pic6177951.jpg",
+    "description": "ASTER is a game of intuition and spatial logic (for 2 to 4 players), in which you will have to generate, move on the map and destroy stars with a single objective: to reconstruct the constellations as we see them from the terrestrial perspective and claim them before the other players.",
+    "categories": "Abstract Strategy",
+    "mechanics": "",
     "expansions": []
   },
   {
@@ -74,6 +100,11 @@ const gamesData = [
     "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "age": "12+",
     "best_players": "7,8",
+    "image_url": "https://cf.geekdo-images.com/uI6LtXOb-Yed0-cUpQ9lew__original/img/6CP6P-JXvZR9dnVRwPWzctoBIY8=/0x0/filters:format(png)/pic7037062.png",
+    "thumbnail_url": "https://cf.geekdo-images.com/uI6LtXOb-Yed0-cUpQ9lew__small/img/EApXy12vHo87cLF5Cp8dd9ljlEw=/fit-in/200x150/filters:strip_icc()/pic7037062.png",
+    "description": "Avalon Big Box Edition is a very special release for fans of The Resistance: Avalon!\n\nThis is a game of hidden loyalty. Players are either Good Loyal Servants of Arthur fighting for goodness and honor, or they are aligned with the Evil ways of Mordred. Players vote to choose who will go on which Quest, but how can they know who to trust? If Evil sabotages three Quests, or if they assassinate Merlin at the end of the game, Arthur&rsquo;s kingdom will fall.\n\nAvalon Big Box is a remastered edition of the classic social deduction game The Resistance: Avalon with a huge amount of additional content added for near limitless gameplay options.\n\nIncluded are 23 distinct characters and numerous optional modules, including Lancelots, Excalibur, Plot Cards, Sorcerers, and Rogues, released as Avalon and The Resistance expansions. Also included are new roles and modules such as the Messengers, Lunatic, Brute, Revealer, Cleric, Trickster, and Deceiver.\n\n&mdash;description from the publisher",
+    "categories": "Bluffing, Card Game, Deduction, Fantasy, Medieval, Negotiation, Party Game, Spies / Secret Agents",
+    "mechanics": "Hidden Roles, Roles with Asymmetric Information, Simultaneous Action Selection, Team-Based Game, Voting",
     "expansions": []
   },
   {
@@ -87,6 +118,11 @@ const gamesData = [
     "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "age": "8+",
     "best_players": "6,7",
+    "image_url": "https://cf.geekdo-images.com/omqNXDxHuFcizPoSm79ADA__original/img/tfKyxINQGko0nwhI_UVWaTFqyfE=/0x0/filters:format(jpeg)/pic3835714.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/omqNXDxHuFcizPoSm79ADA__small/img/mYgLup5AKzWaZCoMULuxXX3iBLk=/fit-in/200x150/filters:strip_icc()/pic3835714.jpg",
+    "description": "BANG! The Bullet! is the deluxe version of BANG! and its expansions. Coming in a deluxe bullet-'box' it contains:\n\n- BANG! - Third Edition with reworked cards and rules\n- Dodge City - Second Edition with reworked cards and characters\n- High Noon - Second Edition\n- High Noon II (A Fistful Of Cards) - Second Edition\n- Two new exclusive High Noon cards - \"New Identity\" and \"Handcuffs\"\n- Three new characters - Uncle Will, Johnny Kisch, and Claus \"The Saint\"\n- Two blank cards\n- One silver sheriff badge\n\nReleased: Essen 2007.\n\nBANG! The Bullet 2nd Edition:\n - BANG! 4th edition (no player mats or bullet tokens)\n- Dodge City 3rd edition\n- High Noon 2nd Edition\n- A Fistful Of Cards 2nd Edition\n- Two Exclusive High Noon cards - \"New Identity\" and \"Handcuffs\"\n- Three new characters - Uncle Will, Johnny Kisch, and Claus \"The Saint\"\n- Two blank cards\n- One silver sheriff badge\n\nReprinted in June 2009",
+    "categories": "American West, Bluffing, Card Game, Deduction, Fighting, Humor",
+    "mechanics": "Hand Management, Hidden Roles, Player Elimination, Take That, Team-Based Game, Variable Player Powers",
     "expansions": []
   },
   {
@@ -100,6 +136,11 @@ const gamesData = [
     "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "age": "12+",
     "best_players": "3",
+    "image_url": "https://cf.geekdo-images.com/zyc92pV4Mn2G6HCegMGPWQ__original/img/39E8tEi-2NbBcXmduY5XHF1GeBU=/0x0/filters:format(jpeg)/pic8194217.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/zyc92pV4Mn2G6HCegMGPWQ__small/img/eBQt7m5f9RtsZfBgCNhJER6f5CA=/fit-in/200x150/filters:strip_icc()/pic8194217.jpg",
+    "description": "In Black Forest, you start out with a small domain in need of new buildings and livestock. You&rsquo;ll travel from village to village, to enlist the aid of the best specialists.  Exploiting the abilities of these specialists lets you collect resources, lay out new landscape tiles (e.g. ponds and fields), and build a variety of buildings, which come in four types. Choose the right buildings, place landscapes, fire up your glass production, and expand your domain.\n\nUwe Rosenberg&rsquo;s resource wheels, made famous in Glass Road (2013), return in Black Forest. Two resource wheels on your tableau help you keep track of your resources and production. Black Forest continues the story - as the name suggests &mdash; in the Black Forest. Among others, the main difference between the two games is the use of worker placement in Black Forest  instead of simultaneous action selection.\n\nA wide selection of buildings and their different effects offer many different paths to victory.\n\n&mdash;description from the publisher",
+    "categories": "City Building, Economic, Industry / Manufacturing, Medieval",
+    "mechanics": "Automatic Resource Growth, End Game Bonuses, Once-Per-Game Abilities, Set Collection, Solo / Solitaire Game, Tile Placement, Variable Set-up, Worker Placement",
     "expansions": []
   },
   {
@@ -113,6 +154,11 @@ const gamesData = [
     "language_dependence": "No necessary in-game text",
     "age": "8+",
     "best_players": "3",
+    "image_url": "https://cf.geekdo-images.com/7Bm5_VZARWmb5sa2Vd-9nQ__original/img/Np58Wz9tBGioa8b2AqjASQgDrl4=/0x0/filters:format(png)/pic6961607.png",
+    "thumbnail_url": "https://cf.geekdo-images.com/7Bm5_VZARWmb5sa2Vd-9nQ__small/img/netlb06OfwpKM-22kVT9klcvC6I=/fit-in/200x150/filters:strip_icc()/pic6961607.png",
+    "description": "The Japanese term \"bonsai\" means \"planted in a pot\".\nA bonsai is a living work of art, a perfect miniature plant, identical in all respects to its full-size simile, but several times smaller.\n\nIn Bonsai, players take on the role of expert bonsai masters intent on growing their own bonsai.\nWhoever grows the best plant will be appointed to show their Bonsai at the Imperial gardens.\n\nOn your turn, choose and perform one of these two actions: meditate or cultivate.\nIf you meditate, choose one of the face up cards on the board and take it, along with any Bonsai tiles represented below the card you draw.\nIf you cultivate, you can place in your Bonsai the tiles which are in your personal supply. You can place as many tiles as the total symbols depicted on your Seishi tile and any or all of your Growth cards. Each symbol will let you place one tile of the corresponding type.\n\nDuring the turn in which your bonsai matches or exceeds the requirements of a Goal tile that is still in the middle of the table (i.e., the Goal tile has not been claimed yet by any player), you must immediately choose whether you want to claim that tile or if you want to renounce it in order to try to achieve a harder Goal tile.\n\nWhen the last card from the deck is revealed, the game end is triggered. Each tile in your bonsai is worth a certain number of points.\n\nIn the solo game you can try the Additional Scenarios that change some rules and goals, and eventually try to beat the Emperor Challenge.\n\n&mdash;description from the publisher",
+    "categories": "Environmental, Puzzle",
+    "mechanics": "Contracts, End Game Bonuses, Hexagon Grid, Melding and Splaying, Open Drafting, Pattern Building, Race, Solo / Solitaire Game, Tile Placement",
     "expansions": [
       {
         "name": "Bonsai: Wabi Sabi",
@@ -124,22 +170,14 @@ const gamesData = [
         "year": "2024",
         "language_dependence": "",
         "age": "8",
-        "best_players": "4,5"
+        "best_players": "4,5",
+        "image_url": "https://cf.geekdo-images.com/1AkYYGFNPDV1OP-NE0vxnA__original/img/8mGUltUI8KXPumiILNee-8hhFe8=/0x0/filters:format(png)/pic8241777.png",
+        "thumbnail_url": "https://cf.geekdo-images.com/1AkYYGFNPDV1OP-NE0vxnA__small/img/VYZsjdqZJ3KGEq-sG5_2fSYs6hw=/fit-in/200x150/filters:strip_icc()/pic8241777.png",
+        "description": "Wabi-sabi is a Japanese aesthetic that celebrates the imperfection of things.\nWhen applied to bonsai, the viewer is encouraged to watch with their heart instead of their eyes, to understand the beauty of their constant changing.\n\nThis expansion for Bonsai contains 5 modules that can be combined together or used separately:\n\n     New Shitakusa Tiles that double the score of Goal tiles;\n     New Goal tiles;\n     New content for the 5th player;\n     New type of Zen cards, for even more choices;\n     New solo challenges.\n\n\n&mdash;description from the publihser",
+        "categories": "Expansion for Base-game, Environmental",
+        "mechanics": "Open Drafting, Solo / Solitaire Game, Tile Placement"
       }
     ]
-  },
-  {
-    "name": "Il Buono, il Brutto e il Munchkin",
-    "itemtype": "standalone",
-    "minplayers": 3,
-    "maxplayers": 6,
-    "minplaytime": 90,
-    "maxplaytime": 90,
-    "year": "2012",
-    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
-    "age": "10+",
-    "best_players": "4,5",
-    "expansions": []
   },
   {
     "name": "Callisto",
@@ -152,6 +190,11 @@ const gamesData = [
     "language_dependence": "No necessary in-game text",
     "age": "6+",
     "best_players": "2",
+    "image_url": "https://cf.geekdo-images.com/xvw7K9mStJZiE5vneohPPw__original/img/7gjDv-f8DcRRMmJzokA2SYo4rRk=/0x0/filters:format(jpeg)/pic3142610.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/xvw7K9mStJZiE5vneohPPw__small/img/IL0Dg6Ry86kciA_J5ZxB1lScNBA=/fit-in/200x150/filters:strip_icc()/pic3142610.jpg",
+    "description": "A smaller-box, shorter variant of Callisto - The Game.\n\nFrom the Callisto page:\nCallisto&rsquo;s brilliant design, including a board that changes surface according to the number of players present, is among one of the features that make this game so unique. While the goal is simple&ndash;to be the first player to place all of his/her tiles onto the board-the shapes of the tiles and additional columns make winning quite tricky. The game plays out like a competitive puzzle, and finesse and cunning are required to triumph.\n\nDifferences between Callisto and Callisto - The Game:\n- This version has fewer tiles (13 vs the original's 17) in a different distribution\n- Instead of the orginal octagonal gameboard this version only offers \"frames\", therefore no \"dark areas\" where first tiles cannot be placed and the play area is square\n- non-mechanism differences: smaller box, cardboard tiles instead of plastic ones.",
+    "categories": "Abstract Strategy",
+    "mechanics": "Enclosure, Tile Placement",
     "expansions": []
   },
   {
@@ -165,6 +208,11 @@ const gamesData = [
     "language_dependence": "No necessary in-game text",
     "age": "8+",
     "best_players": "2",
+    "image_url": "https://cf.geekdo-images.com/peUgu3A20LRmAXAMyDQfpQ__original/img/bP18m_PYjyFOv1IBGgMOteQUneA=/0x0/filters:format(jpeg)/pic8621446.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/peUgu3A20LRmAXAMyDQfpQ__small/img/oEEslN-EGqh82sNI6Aj4_MFXYg0=/fit-in/200x150/filters:strip_icc()/pic8621446.jpg",
+    "description": "Carcassonne is a tile placement game in which the players draw and place a tile with a piece of southern French landscape represented on it. The tile might feature a city, a road, a cloister, grassland or some combination thereof, and it must be placed adjacent to tiles that have already been played, in such a way that cities are connected to cities, roads to roads, et cetera. Having placed a tile, the player can then decide to place one of their meeples in one of the areas on it: in the city as a knight, on the road as a robber, in the cloister as a monk, or in the field as a farmer. When that area is complete that meeple scores points for its owner.\n\nDuring a game of Carcassonne, players are faced with decisions like: \"Is it really worth putting my last meeple there?\" or \"Should I use this tile to expand my city, or should I place it near my opponent instead, thus making it a harder for them to complete it and score points?\" Since players place only one tile and have the option to place one meeple on it, turns proceed quickly even if it is a game full of options and possibilities.\n\nFirst game in the Carcassonne series.",
+    "categories": "Medieval, Territory Building",
+    "mechanics": "Area Majority / Influence, Enclosure, Kill Steal, Map Addition, Pattern Building, Square Grid, Tile Placement",
     "expansions": [
       {
         "name": "Carcassonne: Abbazie e Borgomastri",
@@ -176,7 +224,12 @@ const gamesData = [
         "year": "2010",
         "language_dependence": "No necessary in-game text",
         "age": "8+",
-        "best_players": "3"
+        "best_players": "3",
+        "image_url": "https://cf.geekdo-images.com/QGzPcd0qfC4VV4aQNj-Oug__original/img/ihiFoaL9iZZN90UQCf4E8cP7WI4=/0x0/filters:format(jpeg)/pic3513934.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/QGzPcd0qfC4VV4aQNj-Oug__small/img/Wn2aiX1CrztygKV8w0hm10IlhtQ=/fit-in/200x150/filters:strip_icc()/pic3513934.jpg",
+        "description": "The fifth major expansion to Carcassonne, Abbey & Mayor adds 3 new wooden piece types, 6 abbey tiles, and 12 landscape tiles. The Abbey tiles act as Cloisters but do not have to match adjacent tiles and they complete adjacent features when placed. Mayors can be placed only in cities, with their strength determined by the number of pennants in the city. Barns allow players to score fields during the game rather than just at the end. Wagons are placed on roads, cities, or cloisters, and can move to an adjacent open feature when their current feature is completed.\n\nPart of the Carcassonne series.\n\nExpands:\n\n    Carcassonne",
+        "categories": "Expansion for Base-game, City Building, Medieval, Territory Building",
+        "mechanics": "Area Majority / Influence, Tile Placement"
       },
       {
         "name": "Carcassonne: Bazar, Ponti e Castelli",
@@ -188,7 +241,12 @@ const gamesData = [
         "year": "2010",
         "language_dependence": "No necessary in-game text",
         "age": "8+",
-        "best_players": "3,4"
+        "best_players": "3,4",
+        "image_url": "https://cf.geekdo-images.com/L4k50H_P0oLJaqvTrb8ENA__original/img/37ueUxgMHf-sF4v3CXtWEWZ4p7c=/0x0/filters:format(jpeg)/pic4134883.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/L4k50H_P0oLJaqvTrb8ENA__small/img/xlzGcVmSjeUndxbcUS1s06k2kgM=/fit-in/200x150/filters:strip_icc()/pic4134883.jpg",
+        "description": "The eighth expansion for Carcassonne, Br&uuml;cken, Burgen und Basare (English: Bridges, Castles & Bazaars) allows players three new options while playing:\n\nBridges may be used to continue a road over a field tile, thereby allowing an incomplete road to technically run into a field segment. They are otherwise treated and scored just like roads.\n\nCastle tokens are placed atop 2-segment cities and allow players a chance to cash-in on the next completed adjacent feature.\n\nBazaars are a new type of tile that allows players to auction off tiles in exchange for points.\n\nPart of the Carcassonne series.",
+        "categories": "Expansion for Base-game, City Building, Medieval, Territory Building",
+        "mechanics": "Area Majority / Influence, Auction / Bidding, Tile Placement"
       },
       {
         "name": "Carcassonne: Commercianti e Costruttori",
@@ -200,10 +258,15 @@ const gamesData = [
         "year": "2010",
         "language_dependence": "No necessary in-game text",
         "age": "8+",
-        "best_players": "2,3"
+        "best_players": "2,3",
+        "image_url": "https://cf.geekdo-images.com/LdZAiFV2C7moJs9D2ZuxRA__original/img/j4ZTIwhDSVkJmlTiivd66NT9Xxg=/0x0/filters:format(jpeg)/pic9210963.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/LdZAiFV2C7moJs9D2ZuxRA__small/img/uJf7v4EUj0whsgx1SKLyTBS0dSg=/fit-in/200x150/filters:strip_icc()/pic9210963.jpg",
+        "description": "The second major expansion to the original game of Carcassonne, Traders & Builders contains 24 tiles with new features such as Bridges and Cities.\n\nSome tiles also feature symbols for the goods Wine, Cloth or Wheat. Players collect one of these goods when the feature that has it on the tile is scored. Players with the most of each type of good gets bonus points at the end of the game. (There is a popular house rule that allows the trading of goods between players in exchange for other goods and the ability to choose where a tile is placed.) There are also two new wooden playing pieces in this expansion.  The Builder is like a meeple in that it may be placed in a city or on a road as a kind of supervisor. A subsequent tile played that extends the feature the Builder is in allows the player a bonus tile placement. Farmers will also be able to place a new Pig pawn in a field for extra points at the end of the game.\n\nFinally, Traders & Builders comes with a large cloth bag. Not only does this make it easier to keep and handle the tiles, but it also removes the problem of having non-identical backsides.\n\nCarcassonne: Traders & Builders Expansion Play Summary\n\n\n     Traders - Some of the new city tiles depict goods: wine, grain and/or cloth. When you complete a city, your own or someone else's, you collect a matching token for each good in the city. At game end, whoever has the most goods in each category scores an additional 10 points.\n     Builders - Each player receives a builder meeple in his/her color. You can add your builder to any city or road you already have in progress. Thereafter anytime you add a tile to that city or road, you immediately get to take another turn. The builder does not count as a follower for determining control of a city or road.\n     Pig - You can add your pig to one of your farms to enrich its value. A farm with a pig scores 4 points per completed city served instead of the usual 3.\n\n\nTraders & Builders is playable with or without the first expansion.\nPart of the Carcassonne series\n\nSome versions of HiG Scandinavian release, blue box, has The River I included.",
+        "categories": "Expansion for Base-game, City Building, Medieval, Territory Building",
+        "mechanics": "Area Majority / Influence, Kill Steal, Set Collection, Tile Placement"
       },
       {
-        "name": "Carcassonne: Espansione 10 \u2013 Il Circo",
+        "name": "Carcassonne: Espansione 10 – Il Circo",
         "itemtype": "expansion",
         "minplayers": 2,
         "maxplayers": 6,
@@ -212,7 +275,12 @@ const gamesData = [
         "year": "2018",
         "language_dependence": "No necessary in-game text",
         "age": "8+",
-        "best_players": "3"
+        "best_players": "3",
+        "image_url": "https://cf.geekdo-images.com/wTU54udlwO-0Ejed0uxZ0Q__original/img/9iTy8ZbZn4_JV38lKTGpj0UKUuY=/0x0/filters:format(jpeg)/pic9210981.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/wTU54udlwO-0Ejed0uxZ0Q__small/img/egsC44fD0L-rzuBUqM0cAPAkSaA=/fit-in/200x150/filters:strip_icc()/pic9210981.jpg",
+        "description": "At long last, the circus is coming to Carcassonne. The ringmaster has organized a night full of stunning acrobatic routines that will leave you speechless, while the most talented artists show their latest tricks. Followers can now be trained to perform human pyramids, and a circus tent will attract the people of Carcassonne, while the ringmaster keeps things organized and visitors calm and quiet.\n\nCarcassonne: Under the Big Top is the tenth large expansion for Carcassonne and the first large expansion released exclusively for the second edition of Carcassonne. Part of the Carcassonne series.",
+        "categories": "Expansion for Base-game, Medieval, Territory Building",
+        "mechanics": "Area Majority / Influence, Tile Placement"
       },
       {
         "name": "Carcassonne: Il Conte, il Re e l'Eretico",
@@ -224,7 +292,12 @@ const gamesData = [
         "year": "2011",
         "language_dependence": "No necessary in-game text",
         "age": "8+",
-        "best_players": "3"
+        "best_players": "3",
+        "image_url": "https://cf.geekdo-images.com/eTGI7r_ud_n2e0QjJg2F3g__original/img/vmUh80cSHUu8prgI57sBqzozXM4=/0x0/filters:format(jpeg)/pic4007858.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/eTGI7r_ud_n2e0QjJg2F3g__small/img/oQjC8FKyOqBt9Vo2OTFJggpMLE0=/fit-in/200x150/filters:strip_icc()/pic4007858.jpg",
+        "description": "The sixth large expansion to Carcassonne released in Europe by Hans im Glück is actually a compilation of three existing small expansions and a new one.  Before Z-Man Games picked up the Carcassonne license, this compilation was only available in the US from Rio Grande Games as part of the Big Box 2, or each small expansion was available individually.\n\nPart of the Carcassonne series.\n\nThis compilation contains:\n\n    7 tiles out of Carcassonne: King & Scout (the King & Scout tiles extending Carcassonne: Hunters and Gatherers are not included in this expansion)\n    Carcassonne: The Count of Carcassonne\n    Carcassonne: The River II\n    Carcassonne: The Cult, which was first made available in this compilation.",
+        "categories": "Expansion for Base-game, City Building, Medieval",
+        "mechanics": "Area Majority / Influence, Tile Placement"
       },
       {
         "name": "Carcassonne: La Catapulta",
@@ -236,7 +309,12 @@ const gamesData = [
         "year": "2008",
         "language_dependence": "No necessary in-game text",
         "age": "8+",
-        "best_players": "2"
+        "best_players": "2",
+        "image_url": "https://cf.geekdo-images.com/0zauOKpBtngNQVAIob8fFg__original/img/L58M1fnz9wlAchHc9pR2fGywnFc=/0x0/filters:format(jpeg)/pic471370.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/0zauOKpBtngNQVAIob8fFg__small/img/ANqIH2UTIRUfyYXVKG0rxir2j0E=/fit-in/200x150/filters:strip_icc()/pic471370.jpg",
+        "description": "The seventh \"large\" expansion for Carcassonne.\n12 new tiles with a faire symbol are added to the game. When a player draws a faire tile, they place it and then a \"catapult round\" begins. \nFor the first time, action/dexterity is added to the Carcassonne series. In a catapult round, players attempt to launch special tokens with the wooden catapult. Players have one each of four different kinds of tokens that determine what kind of catapult action is to be taken:  Knock out tokens try to remove meeples; Seduction tokens try to swap meeples; Target tokens try to hit the faire tile; Catch tokens must be caught for points.\n\nExpands:\n\n    Carcassonne",
+        "categories": "Action / Dexterity, City Building, Expansion for Base-game, Medieval, Territory Building",
+        "mechanics": "Area Majority / Influence, Flicking, Tile Placement"
       },
       {
         "name": "Carcassonne: La Principessa e il Drago",
@@ -248,7 +326,12 @@ const gamesData = [
         "year": "2010",
         "language_dependence": "No necessary in-game text",
         "age": "8+",
-        "best_players": "3,4"
+        "best_players": "3,4",
+        "image_url": "https://cf.geekdo-images.com/qqsCzGyFGZVGklj3q5jNkQ__original/img/2FQbC3UupAVOdYmD2Iq-XSE7grY=/0x0/filters:format(jpeg)/pic9210965.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/qqsCzGyFGZVGklj3q5jNkQ__small/img/SLazAP_VduRWc12OPSLyXGeq4rc=/fit-in/200x150/filters:strip_icc()/pic9210965.jpg",
+        "description": "In this third major expansion for the prize-winning Carcassonne, we move into the realm of fantasy.\nThe land around Carcassonne is being visited by a dragon, making life very difficult for the followers. Brave heroes venture forth to face the danger, but without the aid of the fairies, their chances are not good.\nIn the city, the princess seeks help from the knights, and farmers build secret passages to move about undetected by the dragon.\n\nContents: 30 new tiles with dragon nests, volcanoes, magic gates, and princesses; 1 large wooden dragon; 1 wooden fairy. Contrary to original reports, there are no princess figures in The Princess & the Dragon.\n\nPart of the Carcassonne series.",
+        "categories": "Expansion for Base-game, City Building, Fantasy, Medieval, Territory Building",
+        "mechanics": "Area Majority / Influence, Take That, Tile Placement"
       },
       {
         "name": "Carcassonne: La Torre",
@@ -260,7 +343,12 @@ const gamesData = [
         "year": "2010",
         "language_dependence": "No necessary in-game text",
         "age": "8+",
-        "best_players": "3"
+        "best_players": "3",
+        "image_url": "https://cf.geekdo-images.com/4yn-h8juUIMaY7WtYGx5ew__original/img/mPfQ_OG2k1x4GaSlJjXEZY-43Pk=/0x0/filters:format(jpeg)/pic9210966.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/4yn-h8juUIMaY7WtYGx5ew__small/img/IZZOH0AZz5aHWQoUiY1pv3ZJC50=/fit-in/200x150/filters:strip_icc()/pic9210966.jpg",
+        "description": "The Tower is the fourth major expansion for the Carcassonne game.  Tower segments are added to the game, as well as some new actions.  Instead of placing a Meeple as usual on their turns, players can now either place a tower segment on a tile with a space for a tower, add a tower segment to a tower already standing, or place a Meeple on top of a tower (which \"finishes\" it).\n\nPlacing a tower segment allows you to capture other players' Meeples, so long as they are in view of the tower in an orthogonal direction.  If the tower is 1 piece high, they can capture Meeples that are within 1 tile of the tower; if the tower is 2 pieces high, they can capture Meeples within 2 tiles of the tower; etc.  Not only do players lose whatever they may have scored with that Meeple, but they also have to pay 3 victory points if they want to free their Meeple.\n\nPart of the Carcassonne series.",
+        "categories": "Expansion for Base-game, City Building, Medieval, Territory Building",
+        "mechanics": "Area Majority / Influence, Tile Placement"
       },
       {
         "name": "Carcassonne: Le Ali",
@@ -272,7 +360,12 @@ const gamesData = [
         "year": "2012",
         "language_dependence": "No necessary in-game text",
         "age": "8+",
-        "best_players": "2,3"
+        "best_players": "2,3",
+        "image_url": "https://cf.geekdo-images.com/QEqWgwg14mO8kQMvSFGMDA__original/img/_Suk4eT-uihqJeiAJ88zP8OcS9Y=/0x0/filters:format(jpeg)/pic1949624.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/QEqWgwg14mO8kQMvSFGMDA__small/img/lZPiFk6s4Fbpor0Np8MfSdg_z_Q=/fit-in/200x150/filters:strip_icc()/pic1949624.jpg",
+        "description": "In Carcassonne: The Flying Machines, a small expansion for Carcassonne, eight landscape tiles showing a pair of wings are mixed with the other tiles to be used in the game.\n\nWhenever a player draws one of these tiles, he places it according to the normal rules. He then has the option of placing a follower on this tile as normal or of attempting to fly a new follower to a nearby tile. This meeple will travel in the direction determined by the wings' orientation; the distance (1-3 tiles) is determined by a die roll. If a tile exists in this location, he can place the meeple on any unfinished, non-field location, whether that feature is occupied or not; if no tile exists in this location or all the non-field features are complete, then the player places no meeple this turn. Crash!\n\nPart of the Carcassonne series.",
+        "categories": "Aviation / Flight, Expansion for Base-game, Medieval, Territory Building",
+        "mechanics": "Area Majority / Influence, Dice Rolling, Tile Placement"
       },
       {
         "name": "Carcassonne: Locande & Cattedrali",
@@ -284,7 +377,12 @@ const gamesData = [
         "year": "2010",
         "language_dependence": "No necessary in-game text",
         "age": "8+",
-        "best_players": "2,3"
+        "best_players": "2,3",
+        "image_url": "https://cf.geekdo-images.com/9W3DkpIZwD-CrQrzfewG1Q__original/img/ukfywreE-NImHPVgXtXbUCyLGXA=/0x0/filters:format(jpeg)/pic9210962.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/9W3DkpIZwD-CrQrzfewG1Q__small/img/1PH0tUSpC04Gdfpv40r5jC-PP_8=/fit-in/200x150/filters:strip_icc()/pic9210962.jpg",
+        "description": "Carcassonne: Die Erweiterung (later prints used the title Inns & Cathedrals) is the first major expansion for Carcassonne and introduces a few new aspects to the game.  There are a couple of completely new kinds of tiles: the inns and cathedrals.  There are also new tiles that present cities, roads, and cloisters in new shapes.  Additionally, each player gets a \"big meeple\" which counts as two regular meeples.  Another whole set of meeples means 6 players can now enjoy the game.  Finally, a set of scoring cards helps make score-keeping a little clearer.\n\nPart of the Carcassonne series.",
+        "categories": "Expansion for Base-game, City Building, Medieval, Territory Building",
+        "mechanics": "Area Majority / Influence, Tile Placement"
       },
       {
         "name": "Carcassonne: Pecore e Colline",
@@ -296,22 +394,14 @@ const gamesData = [
         "year": "2014",
         "language_dependence": "No necessary in-game text",
         "age": "8+",
-        "best_players": "2,3,4"
+        "best_players": "2,3,4",
+        "image_url": "https://cf.geekdo-images.com/rhAsOwAB61sx8kXsBICmfQ__original/img/un6xgwIOwhvaC_l38IIK7knioYE=/0x0/filters:format(jpeg)/pic9210980.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/rhAsOwAB61sx8kXsBICmfQ__small/img/B28XiyKqxZI6S_oSKPla2M_qjps=/fit-in/200x150/filters:strip_icc()/pic9210980.jpg",
+        "description": "Carcassonne: Hills & Sheep is the ninth numbered expansion for the Carcassonne base game, and now players get to be shepherds on the hills in addition to the usual thieves, knights, monks and farmers. By placing the tiles in this expansion, players build hills and vineyards, trying to plan ahead to claim the sweetest meadows for points &mdash; bringing sheep and shepherds while keeping watch for the wolf that waits to be drawn among the tiles...\n\nWhenever a tile featuring a hill icon is added to the playing area, it is placed on top of another randomly drawn tile, elevating it above the playing surface and creating a hill. Hill tiles act as tie-breakers: if two or more players occupy the same feature equally (a \"shared majority\"), but one of the tied players has a follower standing on a hill tile, that player will have an advantage over the others, and will score all the points for that feature.\n\nVineyards are designed to increase the importance of monasteries. Each vineyard tile placed around a monastery adds three points to that monastery's score. However, these bonus points only count if the monastery is completed, so players are more likely to sabotage their opponents' monasteries in order to prevent them from being finished.\n\nShepherds are new pieces that can only be placed in fields. Each time a player expands the field occupied by his or her shepherd, that player has two options: 1. Draw a sheep token out of a bag, placing it near their shepherd; or 2. Trade in all their accumulated sheep for points. Each sheep token is worth 1-4 points, depending on the number of sheep depicted. However, hidden among the sheep tokens are two wolf tokens, and if a player draws one of these, all of their sheep are lost and placed back into the bag. This introduces a push-your-luck aspect to Carcassonne, as players can choose to either \"cash-in\" the sheep they have, or try to add more sheep and risk losing them all.\n\nThe goal of Hills & Sheep remains the same as in basic Carcassonne: claim the most points to win the game. Part of the Carcassonne series.",
+        "categories": "Expansion for Base-game, Medieval, Territory Building",
+        "mechanics": "Area Majority / Influence, Tile Placement"
       }
     ]
-  },
-  {
-    "name": "Le Case della Follia: Seconda Edizione",
-    "itemtype": "standalone",
-    "minplayers": 1,
-    "maxplayers": 5,
-    "minplaytime": 120,
-    "maxplaytime": 180,
-    "year": "2016",
-    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
-    "age": "12+",
-    "best_players": "3,4",
-    "expansions": []
   },
   {
     "name": "Catan: Il Gioco",
@@ -324,6 +414,11 @@ const gamesData = [
     "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "age": "8+",
     "best_players": "4",
+    "image_url": "https://cf.geekdo-images.com/0XODRpReiZBFUffEcqT5-Q__original/img/oRc0AomWA9ZtFqQDZiZbIyKE1j0=/0x0/filters:format(png)/pic9156909.png",
+    "thumbnail_url": "https://cf.geekdo-images.com/0XODRpReiZBFUffEcqT5-Q__small/img/SNVfF23OQafv3u8xdFolJnMkBoM=/fit-in/200x150/filters:strip_icc()/pic9156909.png",
+    "description": "In CATAN (formerly The Settlers of Catan), players try to be the dominant force on the island of Catan by building settlements, cities and roads. On each turn dice are rolled to determine which resources the island produces. Players build structures by 'spending' resources (sheep, wheat, wood, brick and ore) which are represented by the relevant resource cards; each land type, with the exception of the unproductive desert, produces a specific resource: hills produce brick, forests produce wood, mountains produce ore, fields produce wheat, and pastures produce sheep.\n\nSet-up includes randomly placing large hexagonal tiles (each depicting one of the five resource-producing terrain types--or the desert) in a honeycomb shape and surrounding them with water tiles, some of which contain ports of exchange. A number disk, the value of which will correspond to the roll of two 6-sided dice, are placed on each terrain tile. Each player is given two settlements (think: houses) and roads (sticks) which are placed on intersections and borders of the terrain tiles. Players collect a hand of resource cards based on which terrain tiles their last-placed settlement is adjacent to. A robber pawn is placed on the desert tile.\n\nA turn consists of rolling the dice, collecting resource cards based on this dice roll and the position of settlements (or upgraded cities&mdash;think: hotels), turning in resource cards (if possible and desired) for improvements, trading cards at a port, possibly playing a development card, or trading resource cards with other players. If the dice roll is a 7, the active player moves the robber to a new terrain tile and steals a resource card from another player who has a settlement adjacent to that tile.\n\nPoints are accumulated by building settlements and cities, having the longest road or the largest army (from some of the development cards), and gathering certain development cards that simply award victory points. When a player has gathered 10 points (some of which may be held in secret), s/he announces this and claims the win.",
+    "categories": "Economic, Negotiation",
+    "mechanics": "Chaining, Dice Rolling, Hand Management, Hexagon Grid, Hidden Victory Points, Income, Market, Modular Board, Network and Route Building, Race, Random Production, Take That, Trading, Variable Set-up",
     "expansions": []
   },
   {
@@ -337,6 +432,11 @@ const gamesData = [
     "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "age": "10+",
     "best_players": "5",
+    "image_url": "https://cf.geekdo-images.com/shXqRK7Sfsp-jCLwoN3kqw__original/img/G5HKV77V6Q62qaArIHGRLjMnvzY=/0x0/filters:format(jpeg)/pic636868.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/shXqRK7Sfsp-jCLwoN3kqw__small/img/Y_o8GdhShAWME_ZH2c7yTxHJIWk=/fit-in/200x150/filters:strip_icc()/pic636868.jpg",
+    "description": "In Citadels, players take on new roles each round to represent characters they hire in order to help them acquire gold and erect buildings. The game ends at the close of a round in which a player erects his/her eighth building. Players then tally their points, and the player with the highest score wins.\n\nPlayers start with a number of building cards in their hand; buildings come in five colors, with the purple buildings typically having a special ability and the other colored buildings providing a benefit when you play particular characters. At the start of each round, the player who was king the previous round discards one of the eight character cards at random, chooses one, then passes the cards to the next player, etc. until each player has secretly chosen a character. Each character has a special ability, and the usefulness of any character depends upon your situation, and that of your opponents. The characters then carry out their actions in numerical order: the assassin eliminating another character for the round, the thief stealing all gold from another character, the wizard swapping building cards with another player, the warlord optionally destroys a building in play, and so on.\n\nOn a turn, a player earns two or more gold (or draws two building cards then discards one), then optionally constructs one building (or up to three if playing the architect this round). Buildings cost gold equal to the number of symbols on them, and each building is worth a certain number of points. In addition to points from buildings, at the end of the game a player scores bonus points for having eight buildings or buildings of all five colors.\n\nThe expansion Citadels: The Dark City was initially released as a separate item, but the second edition of the game from Hans im Gl&uuml;ck (packaged in a tin box) and the third edition from Fantasy Flight Games included this expansion and can be recognized by its rectangular box (not square). With Dark City, Citadels supports a maximum of eight players.",
+    "categories": "Bluffing, Card Game, City Building, Deduction, Fantasy, Medieval",
+    "mechanics": "Action Drafting, Closed Drafting, Income, Lose a Turn, Set Collection, Take That, Turn Order: Role Order, Variable Player Powers",
     "expansions": []
   },
   {
@@ -350,6 +450,11 @@ const gamesData = [
     "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "age": "8+",
     "best_players": "4",
+    "image_url": "https://cf.geekdo-images.com/5NJKy5K9c0tyCTnTWFekeQ__original/img/RlWgyKfLDdxIErDCmtFmogfvxoU=/0x0/filters:format(png)/pic3181978.png",
+    "thumbnail_url": "https://cf.geekdo-images.com/5NJKy5K9c0tyCTnTWFekeQ__small/img/U73irtMkLpBBRod1xMnSO6-FbKI=/fit-in/200x150/filters:strip_icc()/pic3181978.png",
+    "description": "Refresh of classic Clue game. Significant change: Adds a new character, Dr. Orchid. Also includes two-player rules.\n\nClue/do is a murder mystery game. The aim is to find out who committed the murder, which weapon they used, and where in the mansion they did it. How do you solve the case? By careful questioning of your fellow players you can deduce which information is concealed in the crime envelope. The trick is to be clever with your questioning. Everyone develops their own system!\n\nThis version of the game plays faster than older versions of Clue, with the help of bigger spaces on the board, special Red Cards, and a new layout of the mansion so you can walk between rooms. The bedroom has an ensuite, and you can wander from the kitchen straight into the dining room.\n\nNote: In this version of Clue, when playing with the 2-player/Team rules: before you deal the black Clue cards to the players, you take the top four black CLUE cards from the deck and place them face down in a row at the side of the board. When the other player/team cannot answer your question, you get to secretly look at one of the four cards at the side of the board.\n\nYou also don't use the Red Bonus cards in a 2-player/Team game.",
+    "categories": "Bluffing, Deduction, Murder / Mystery",
+    "mechanics": "Dice Rolling, Roll / Spin and Move",
     "expansions": []
   },
   {
@@ -363,7 +468,30 @@ const gamesData = [
     "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "age": "8+",
     "best_players": "2,3",
-    "expansions": []
+    "image_url": "https://cf.geekdo-images.com/4dmyKfqQm_uxA1-chh4JeQ__original/img/5UxDHPldIiCb0uovIwzngR-jx5M=/0x0/filters:format(jpeg)/pic3187001.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/4dmyKfqQm_uxA1-chh4JeQ__small/img/Td5CxjO0ZTIbwHNhk2ETEy1qYyg=/fit-in/200x150/filters:strip_icc()/pic3187001.jpg",
+    "description": "\"You are a monarch, like your parents before you, a ruler of a small pleasant kingdom of rivers and evergreens. Unlike your parents, however, you have hopes and dreams! You want a bigger and more pleasant kingdom, with more rivers and a wider variety of trees. You want a Dominion! In all directions lie fiefs, freeholds, and feodums. All are small bits of land, controlled by petty lords and verging on anarchy. You will bring civilization to these people, uniting them under your banner.\n\n\"But wait! It must be something in the air; several other monarchs have had the exact same idea. You must race to get as much of the unclaimed land as possible, fending them off along the way. To do this you will hire minions, construct buildings, spruce up your castle, and fill the coffers of your treasury. Your parents wouldn't be proud, but your grandparents, on your mother's side, would be delighted.'\"'\n\nIn Dominion, each player starts with an identical, very small deck of cards. In the center of the table is a selection of other cards the players can \"buy\" as they can afford them. Through their selection of cards to buy and how they play their hands as they draw them, the players construct their deck on the fly, striving for the most efficient path to the precious victory points by game end.\n\nDominion is not a collectible card game (CCG), but the play of the game is similar to the construction and play of a CCG deck. The game comes with 500 cards. You select 10 of the 26 Kingdom card types to include in any given play&mdash;leading to immense variety.\n\nDominion (Second Edition) replaces six Kingdom card types from the first edition with six new types of Kingdom cards, while also replacing the blank cards in the game with a seventh new Kingdom card. These new cards are available on their own in the Dominion: Update Pack. The rulebook has been rewritten, three cards have mild functional changes (\"you may\" added to Moneylender, Mine, Throne Room), and other cards have been rephrased (while remaining functionally the same).\n\nDominion: Update Pack contains the seven new kingdom cards introduced in the second edition of Dominion, thereby allowing owners of the first edition to obtain these new cards without needing to repurchase the entire game.",
+    "categories": "Card Game, Medieval",
+    "mechanics": "Deck, Bag, and Pool Building, Delayed Purchase, Hand Management, Open Drafting, Take That, Variable Set-up",
+    "expansions": [
+      {
+        "name": "Dominion: Alchimia",
+        "itemtype": "expansion",
+        "minplayers": 2,
+        "maxplayers": 4,
+        "minplaytime": 30,
+        "maxplaytime": 30,
+        "year": "2010",
+        "language_dependence": "Extensive use of text - massive conversion needed to be playable",
+        "age": "10+",
+        "best_players": "3",
+        "image_url": "https://cf.geekdo-images.com/mwz6KkKz5F_NtmGtZKTwxQ__original/img/a_GfPrwPUN4Zm9CkcskwOyS_T48=/0x0/filters:format(jpeg)/pic698779.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/mwz6KkKz5F_NtmGtZKTwxQ__small/img/UaQDZw9glX1m9dyOr27OkpMjWX8=/fit-in/200x150/filters:strip_icc()/pic698779.jpg",
+        "description": "There are strange things going on in your basement laboratories. They keep calling up for more barrels of quicksilver, or bits of your hair. Well it's all in the name of progress. They're looking for a way to turn lead into gold, or at least into something better than lead. That lead had just been too good of a bargain to pass up; you didn't think, where will I put all this lead, what am I going to do with this lead anyway. Well that will all be sorted out. They're also looking for a universal solvent. If they manage that one, you will take whatever they use to hold it in and build a castle out of it. A castle that can't be dissolved! Now that's progress.\n\nDominion: Alchemy is an expansion, and can't be played by itself; to play with it, you need Dominion a standalone expansion to Dominion (Dominion: Intrigue), or Dominion Base Cards . Those provide the Basic cards you need to play (Treasure, Victory, and Curse cards), as well as the full rules for setup and gameplay. Dominion: Alchemy can also be combined with any other Dominion expansions you have.\n\nPart of the Dominion series.",
+        "categories": "Card Game, Expansion for Base-game, Medieval",
+        "mechanics": "Deck, Bag, and Pool Building, Delayed Purchase, Hand Management, Open Drafting"
+      }
+    ]
   },
   {
     "name": "Dorfromantik: Sakura",
@@ -376,6 +504,11 @@ const gamesData = [
     "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "age": "8+",
     "best_players": "2",
+    "image_url": "https://cf.geekdo-images.com/fznRvIx6a-rU56Ly0RqpTA__original/img/paFybadRTxcWLuQr2xkSMzAULQA=/0x0/filters:format(jpeg)/pic8305438.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/fznRvIx6a-rU56Ly0RqpTA__small/img/VkEezaIwaCX_6MZj2vcrcSb9nQk=/fit-in/200x150/filters:strip_icc()/pic8305438.jpg",
+    "description": "Dorfromantik - Sakura is the stand-alone successor to the Spiel des Jahres 2023 Dorfromantik - The Board Game.\n\nDorfromantik - Sakura takes the players into the idyllic landscape of Japan with many new challenges. Sakura is the Japanese word for cherry blossom, which comes into the game as a new element. In addition, there are now more than 40 achievements from 6 boxes to unlock.\nThese and other surprises await the players in Dorfromantik - Sakura.",
+    "categories": "City Building, Environmental, Puzzle, Territory Building, Video Game Theme",
+    "mechanics": "Cooperative Game, Hexagon Grid, Map Addition, Modular Board, Scenario / Mission / Campaign Game, Tile Placement",
     "expansions": []
   },
   {
@@ -389,6 +522,11 @@ const gamesData = [
     "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "age": "10+",
     "best_players": "3",
+    "image_url": "https://cf.geekdo-images.com/VSRIOSCQNys8hyFrfn5dtw__original/img/PwxulpLHJ6qxG9tewXi3tfeGbGo=/0x0/filters:format(png)/pic9265878.png",
+    "thumbnail_url": "https://cf.geekdo-images.com/VSRIOSCQNys8hyFrfn5dtw__small/img/9mScFFzgAkNEQiF_9dMEfE9VZXc=/fit-in/200x150/filters:strip_icc()/pic9265878.png",
+    "description": "The Collector's Edition of Everdell includes everything in the standard edition, plus the 10 card Legends expansion, 15 Extra! Extra! cards, 30 metal tokens, and an upgraded 8-sided die. This is all contained in a UV spot-coated box and a Gallery slipcase.\n\nWithin the charming valley of Everdell, beneath the boughs of towering trees, among meandering streams and mossy hollows, a civilization of forest critters is thriving and expanding. From Everfrost to Bellsong, many a year have come and gone, but the time has come for new territories to be settled and new cities established. You will be the leader of a group of critters intent on just such a task. There are buildings to construct, lively characters to meet, events to host&mdash;you have a busy year ahead of yourself. Will the sun shine brightest on your city before the winter moon rises?\n\nEverdell is a game of dynamic tableau building and worker placement.\n\nOn their turn a player can take one of three actions:\n\na) Place a Worker: Each player has a collection of Worker pieces. These are placed on the board locations, events, and on Destination cards. Workers perform various actions to further the development of a player's tableau: gathering resources, drawing cards, and taking other special actions.\n\nb) Play a Card: Each player is building and populating a city; a tableau of up to 15 Construction and Critter cards. There are five types of cards: Travelers, Production, Destination, Governance, and Prosperity. Cards generate resources (twigs, resin, pebbles, and berries), grant abilities, and ultimately score points. The interactions of the cards reveal numerous strategies and a near infinite variety of working cities.\n\nc) Prepare for the next Season: Workers are returned to the players supply and new workers are added. The game is played from Winter through to the onset of the following winter, at which point the player with the city with the most points wins.",
+    "categories": "Animals, Card Game, City Building, Fantasy",
+    "mechanics": "End Game Bonuses, Hand Management, Income, Open Drafting, Solo / Solitaire Game, Variable Set-up, Worker Placement",
     "expansions": []
   },
   {
@@ -402,6 +540,11 @@ const gamesData = [
     "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "age": "8+",
     "best_players": "4,5",
+    "image_url": "https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__original/img/0ciN1VZYifUd0qIDO0e8cGXmiss=/0x0/filters:format(png)/pic2691976.png",
+    "thumbnail_url": "https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__small/img/3tH4pIc1Udzkd0tXc6MgVQ59BC0=/fit-in/200x150/filters:strip_icc()/pic2691976.png",
+    "description": "Exploding Kittens is a kitty-powered version of Russian Roulette. Players take turns drawing cards until someone draws an exploding kitten and loses the game. The deck is made up of cards that let you avoid exploding by peeking at cards before you draw, forcing your opponent to draw multiple cards, or shuffling the deck.\n\nThe game gets more and more intense with each card you draw because fewer cards left in the deck means a greater chance of drawing the kitten and exploding in a fiery ball of feline hyperbole.",
+    "categories": "Animals, Card Game, Comic Book / Strip, Humor",
+    "mechanics": "Hand Management, Hot Potato, Player Elimination, Push Your Luck, Set Collection, Take That",
     "expansions": []
   },
   {
@@ -415,19 +558,11 @@ const gamesData = [
     "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "age": "14+",
     "best_players": "4,5",
-    "expansions": []
-  },
-  {
-    "name": "futuRisiKo!",
-    "itemtype": "standalone",
-    "minplayers": 3,
-    "maxplayers": 6,
-    "minplaytime": 180,
-    "maxplaytime": 180,
-    "year": "2012",
-    "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
-    "age": "12+",
-    "best_players": "4,5,6",
+    "image_url": "https://cf.geekdo-images.com/_9v_15rJjapltOr0I74uJQ__original/img/5-sylqMMDS3r8RelWDrcNQJiUSE=/0x0/filters:format(png)/pic9005066.png",
+    "thumbnail_url": "https://cf.geekdo-images.com/_9v_15rJjapltOr0I74uJQ__small/img/RG3VraWEZaezik-9vAA0ksN4MZI=/fit-in/200x150/filters:strip_icc()/pic9005066.png",
+    "description": "Originally an expansion for Exploding Kittens, the most successful Kickstarer project ever, that contained cards that were too horrific and/or incredible to be included in a kid safe version. As a stretch goal this was turned into a stand alone game that can be combined with the standard Exploding Kittens deck. If you combine the two decks, you can go up to 9 players. 10 with Imploding Kittens",
+    "categories": "Animals, Card Game, Comic Book / Strip, Humor, Mature / Adult",
+    "mechanics": "Hand Management, Player Elimination, Push Your Luck, Set Collection, Take That",
     "expansions": []
   },
   {
@@ -441,6 +576,11 @@ const gamesData = [
     "language_dependence": "No necessary in-game text",
     "age": "8+",
     "best_players": "2,3",
+    "image_url": "https://cf.geekdo-images.com/A_XP2_VN3ugyqPhezowB_w__original/img/_Rv8lSr3fC1oDRkrQleQW2H2yCs=/0x0/filters:format(png)/pic8026369.png",
+    "thumbnail_url": "https://cf.geekdo-images.com/A_XP2_VN3ugyqPhezowB_w__small/img/ln5eKAzhse2PIHvWn7bu-jiW_uk=/fit-in/200x150/filters:strip_icc()/pic8026369.png",
+    "description": "In Harmonies, build landscapes by placing colored tokens and create habitats for your animals. To earn the most points and win the game, incorporate the habitats in your landscapes wisely and have as many animals as you can settle there.\n\nStarting with the first player and proceeding clockwise, each player will choose a set of 3 terrain tokens from the central area to place on their personal board. They may optionally choose an Animal card from the 5 displayed and/or place an Animal cube from their Animal card(s) on any completed patterns on their board that match their personal Animal cards. There is a 4-card limit per player. After their turn, refill with a new set of 3 tokens and a new Animal card if needed.\n\nPlacement of the terrain tokens will depend on the personal Animal card goals, and scoring rules for the various terrain types (mountain, field, forest, etc). For example, mountain tiles score based on how high they are (1 tile scores 1, while 3 tiles stacked score 7), but the mountain scores zero if it is not adjacent to at least one other mountain. If all the cubes on a given Animal card have been placed, the card is set aside and a new card can be drawn. The cards are scored at game end based on the highest number that isn't covered by a cube.\n\nThe games ends when there are no tokens left in the bag to refill the central area, or at least one players has 2 or fewer empty spaces on their player board. Play continues until all players have had an equal turn that round. The player with the highest points is the winner.\n\nOptionally, you can use Nature's Spirit cards for richer gameplay. During setup, each player chooses 1 of 2 spirit cards and places a Spirit cube on the card. They follow the same placement rules as Animal cards, but tend to have an ongoing effect once completed. The spirit card does count towards the 4-card hand limit.\n\n&mdash;description from the publisher",
+    "categories": "Abstract Strategy, Animals, Environmental, Puzzle",
+    "mechanics": "Chaining, Hexagon Grid, Open Drafting, Pattern Building, Set Collection, Solo / Solitaire Game, Tile Placement, Variable Player Powers",
     "expansions": []
   },
   {
@@ -454,6 +594,11 @@ const gamesData = [
     "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "age": "8+",
     "best_players": "5",
+    "image_url": "https://cf.geekdo-images.com/v695lqCTLA_PU6fBHmfXCA__original/img/FvYaNQJLXa_xnW6Pz4bM4QhMQvM=/0x0/filters:format(jpeg)/pic5676212.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/v695lqCTLA_PU6fBHmfXCA__small/img/aX66kuy84pnBa8Sxlwn8Hcqq2yo=/fit-in/200x150/filters:strip_icc()/pic5676212.jpg",
+    "description": "HeroQuest is a Dungeons & Dragons-style adventure game.  One player acts as game master, revealing the maze-like dungeon piecemeal as the players wander.  Other players take on a character (wizard, elf, dwarf, or barbarian) and venture forth into dungeons on fantasy quests.  The HeroQuest series consists of the main game and a number of expansions.\n\nThe game is played on a grid representing the interior of a dungeon or castle, with walls segmenting the grid into rooms and corridors. One player assumes the role of the evil wizard character (Zargon/Morcar), and uses a map taken from the game's quest book to determine how the quest is to be played. The map details the placement of monsters, artifacts, and doors, as well as the overall quest the other players are embarking upon. During a Hero's turn, the player can move before or after performing one of the following actions: attack, cast a spell, search for traps and secret doors, search for treasure.\n\nThe game ends when every player has either returned to the spiral staircase, exited by a door, or been killed by the evil wizard. If the objective of the quest has not been accomplished then the evil wizard character wins. Items collected during the quest may be kept for future quests. The quests usually form part of a longer story, especially the quests which are part of the expansion packs.\n\nAdditional material, which is generally missed since it is not technically an expansion, was published in the HeroQuest: Adventure Design Kit which did feature one more Heroquest adventure: A Plague of Zombies.",
+    "categories": "Adventure, Exploration, Fantasy, Fighting, Miniatures",
+    "mechanics": "Cooperative Game, Dice Rolling, Die Icon Resolution, Grid Movement, Line of Sight, Modular Board, Role Playing, Roll / Spin and Move, Scenario / Mission / Campaign Game, Square Grid, Team-Based Game, Variable Player Powers",
     "expansions": [
       {
         "name": "HeroQuest: la maga dello specchio",
@@ -465,7 +610,84 @@ const gamesData = [
         "year": "2023",
         "language_dependence": "",
         "age": "",
-        "best_players": ""
+        "best_players": "",
+        "image_url": "https://cf.geekdo-images.com/VXt4qm5BkoEgmDB3vGeDXg__original/img/42ctCNoQ5cX9HxAX1yQcdi3mM_Q=/0x0/filters:format(jpeg)/pic6996095.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/VXt4qm5BkoEgmDB3vGeDXg__small/img/uhvW8or8yqH7jKMrjRG2NQca-H8=/fit-in/200x150/filters:strip_icc()/pic6996095.jpg",
+        "description": "This adventure sees trouble brewing in the elven kingdom, and a brave elf must first manage their way through dangerous solo quests before rejoining their party to confront the diabolical archmage, Sinestra.\n\nThe Mage of the Mirror includes a Quest Book featuring 10 quests, 33 finely detailed miniatures, and 35 game cards that will expand the game for both Zargon and the heroes.",
+        "categories": "Expansion for Base-game, Adventure, Dice, Exploration, Fantasy, Fighting, Miniatures",
+        "mechanics": "Dice Rolling, Die Icon Resolution, Grid Movement, Once-Per-Game Abilities, Role Playing, Roles with Asymmetric Information, Roll / Spin and Move, Scenario / Mission / Campaign Game, Semi-Cooperative Game, Solo / Solitaire Game, Storytelling, Turn Order: Pass Order"
+      }
+    ]
+  },
+  {
+    "name": "Il Signore degli Anelli: Duel for Middle-earth",
+    "itemtype": "standalone",
+    "minplayers": 2,
+    "maxplayers": 2,
+    "minplaytime": 30,
+    "maxplaytime": 30,
+    "year": "2024",
+    "language_dependence": "No necessary in-game text",
+    "age": "10+",
+    "best_players": "2",
+    "image_url": "https://cf.geekdo-images.com/EybxJlUc9rz7F7HVFLqsdw__original/img/Ts4M5eOW38r2oTvJmkx0uwNodv4=/0x0/filters:format(jpeg)/pic8378939.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/EybxJlUc9rz7F7HVFLqsdw__small/img/rojFW0-h-bteedVG4aJXG1x7V0o=/fit-in/200x150/filters:strip_icc()/pic8378939.jpg",
+    "description": "A dark rumour rises from Mordor. The Eye turns to Middle-earth. The hour has come. The Fellowship is reunited. The Heroes prepare for battle. Will you play as the Fellowship of the Ring to defend the free races and destroy the One Ring? Or will you play as Sauron and pursue Frodo and Sam while deploying your hordes to the gates of the enemy cities? The destiny of Middle-earth is in your hands!\n\nA game plays over 3 successive chapters that unfold similarly.\nOn your turn, strengthen your Skills, hoard your treasure, stretch your presence across Middle-earth, rally Races to your cause, or advance the Quest of the Ring.\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tTurn OverviewIn each chapter players take cards from a display of face-down and face-up cards arranged at the start of a round. A player can take a card only if it's available, that is not partially covered by any other cards. Players can either play the card, paying its cost and placing it in their play area, obtaining its benefit, or discard the card and take as many coins from the reserve as the current chapter.\n\nPlayers can also take a Landmark tile from one of the faceup tiles, paying its cost placing it in their play area. They will be able to immediately place a Fortress pawn on the corresponding region of the central board and benefit from its other effects.\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tVictory ConditionsImmediately win the game by fulfilling one of the 3 victory conditions:\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tQuest of the Ring\n     For the Fellowship: If Frodo and Sam reach Mount Doom, they destroy the One Ring and you immediately win the game.\n     For Sauron: If the Nazg&ucirc;l catch Frodo and Sam, they seize the One Ring and you immediately win the game.\n\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tSupport of the RacesIf any player gathers 6 different Race symbols on their Green cards, they rally the support of the Races of Middle-earth and immediately win the game\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tConquering Middle-earthIf a player is present in all 7 regions (with a Fortress and/or at least 1 Unit), they dominate Middle-earth and immediately win the game.\n\nIf none of these three victory conditions are achieved by the end of chapter 3, the player who is present in the most regions of Middle-earth (with a Fortress and/or at least 1 Unit) wins the game. In case of tie, share the victory.",
+    "categories": "Card Game, Fantasy, Novel-based",
+    "mechanics": "Area Majority / Influence, Hand Management, Income, Layering, Market, Modular Board, Multi-Use Cards, Once-Per-Game Abilities, Open Drafting, Point to Point Movement, Race, Relative Movement, Set Collection, Sudden Death Ending, Tags, Take That, Tech Trees / Tech Tracks, Variable Player Powers, Variable Set-up",
+    "expansions": []
+  },
+  {
+    "name": "Il Trauma del Tram",
+    "itemtype": "standalone",
+    "minplayers": 3,
+    "maxplayers": 13,
+    "minplaytime": 30,
+    "maxplaytime": 90,
+    "year": "2020",
+    "language_dependence": "Unplayable in another language",
+    "age": "16+",
+    "best_players": "5,7",
+    "image_url": "https://cf.geekdo-images.com/r1GDaTzdNoSz2gcZELRFng__original/img/hC1dBcEFFyDhxSqC45XjBV2nmHM=/0x0/filters:format(png)/pic4835109.png",
+    "thumbnail_url": "https://cf.geekdo-images.com/r1GDaTzdNoSz2gcZELRFng__small/img/EHxVkr3rv0ag28bTD4nAzDgKklI=/fit-in/200x150/filters:strip_icc()/pic4835109.png",
+    "description": "In Trial by Trolley, one player acts as the Trolley Operator and must choose where to send a murderous, out of control, trolley. Every other player at the table plays cards and argues in order to convince the operator to spare their lives and condemn everyone on the other track to a gruesome death-by-trolley.\n\nEach round, one player will act as the trolley conductor. This person will be the judge, and will choose which track the trolley will murder.\n\nEach other player is divided evenly among teams, and each player(s) will have a role for the round.\n\nTo begin, one player will draw 3 angelic tracks, choose one to play to the table, and then randomly reveal a 2nd angelic track from the deck to add to the track. Another player will draw 3 demonic tracks, and choose to add one to the opposing teams track, attempting to sabotage them, and spare their own tracks. Finally, player(s) will draw track modifiers to place on any track card on the table. They can play on their own tracks, to sway the judge, or they may play on their opponents, to further sway the judge into murdering their opponent's track.\n\nThe judge will ponder this conundrum, and eventually decide to murder one track. The track that was spared is the winner for the round!\n\nPlay continues for a number of rounds pre-determined by the number of players at the table.\n\nTrial by Trolley is a game for 3-13 players, and plays in about 30-90 minutes.\n\n&mdash;description from the publisher",
+    "categories": "Mature / Adult, Party Game",
+    "mechanics": "Hand Management, Player Judge, Simultaneous Action Selection",
+    "expansions": []
+  },
+  {
+    "name": "Il Trono di Spade: Il Gioco da Tavolo Seconda Edizione",
+    "itemtype": "standalone",
+    "minplayers": 3,
+    "maxplayers": 6,
+    "minplaytime": 120,
+    "maxplaytime": 240,
+    "year": "2012",
+    "language_dependence": "Some necessary text - easily memorized or small crib sheet",
+    "age": "14+",
+    "best_players": "6",
+    "image_url": "https://cf.geekdo-images.com/M_7UvwZvuxBVjxdadsa5AA__original/img/3tv6H7jX5T9rqwuI84YZKZDBGcw=/0x0/filters:format(jpeg)/pic1077906.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/M_7UvwZvuxBVjxdadsa5AA__small/img/ZQ9guRvmMgYfseBC3_xNscMOKKo=/fit-in/200x150/filters:strip_icc()/pic1077906.jpg",
+    "description": "Game description from the publisher:\n\nKing Robert Baratheon is dead, and the lands of Westeros brace for battle.\n\nIn the second edition of A Game of Thrones: The Board Game, three to six players take on the roles of the great Houses of the Seven Kingdoms of Westeros, as they vie for control of the Iron Throne through the use of diplomacy and warfare. Based on the best-selling A Song of Ice and Fire series of fantasy novels by George R.R. Martin, A Game of Thrones is an epic board game in which it will take more than military might to win. Will you take power through force, use honeyed words to coerce your way onto the throne, or rally the townsfolk to your side? Through strategic planning, masterful diplomacy, and clever card play, spread your influence over Westeros!\n\nTo begin the game, each player receives an army of Footman, Knight, Siege Engine, and Ship units, as well as a set of Order tokens and other necessary components. Each player also receives a deck of unique House Cards, which are used as leaders in battles against rival Houses.\n\nEach round in the game is made up of three phases: the Westeros Phase, the Planning Phase, and the Action Phase. The Westeros Phase represents special events and day-to-day activities in Westeros. There are three different Westeros Decks, and each denotes a different global action, potentially affecting all players.\n\nThe Planning Phase is perhaps the most important. Here you secretly assign orders to all of your units by placing one order token face down on each area you control that contains at least one unit (Knight, Footman, Ship, or Siege Engine). This portion of the game emphasizes diplomacy and deduction. Can you trust the alliance that you made? Will you betray your ally and march upon him? Players may make promises to each other (for aid or peace, for example), but these promises are never binding. The result is tense and compelling negotiations, often ending in backstabbing worthy of Westeros!\n\nDuring the Action Phase, the orders are resolved and battle is entered! When armies meet in combat, they secretly choose one of their House cards to add strength to the battle. Finally, the Houses can consolidate their power in the areas they control and use that power in future turns to influence their position in the court of the Iron Throne and to stand against the wildling Hordes.\n\nIn addition to featuring updated graphics and a clarified ruleset, this second edition of A Game of Thrones includes elements from the A Clash of Kings and A Storm of Swords expansions, including ports, garrisons, Wildling cards, and Siege engines, while introducing welcome new innovations like player screens and Tides of Battle cards.\n\nTides of Battle cards are an optional mechanism that brings an element of unpredictability to combat, representing erratic shifts in the momentum of war due to factors such as weather, morale, and tactical opportunity. During each combat, both players draw one Tides of Battle card from a communal deck, and its value modifies the strength of his chosen House card. What's more, such a card may also contain icons that can affect the outcome of the battle...all of which delivers a new level of intensity to your military engagements.\n\nExpanded by:\n\n     A Game of Thrones: The Board Game (Second Edition) – A Dance with Dragons (2012)\n     A Game of Thrones: The Board Game (Second Edition) – A Feast for Crows (2013)\n     A Game of Thrones: The Board Game (Second Edition) – Mother of Dragons (2018)\n\n\nReimplements:\n\n     A Game of Thrones (2003)\n     A Game of Thrones: A Clash of Kings Expansion (2004)\n     A Game of Thrones: A Storm of Swords Expansion (2006)",
+    "categories": "Bluffing, Fantasy, Negotiation, Novel-based, Political, Wargame",
+    "mechanics": "Advantage Token, Alliances, Area Movement, Auction / Bidding, Auction: Sealed Bid, Card Play Conflict Resolution, Events, Hand Management, Income, Negotiation, Order Counters, Player Elimination, Simultaneous Action Selection, Sudden Death Ending, Turn Order: Auction, Variable Player Powers",
+    "expansions": [
+      {
+        "name": "Il Trono di Spade: Il Gioco da Tavolo (Seconda Edizione) – La Madre dei Draghi",
+        "itemtype": "expansion",
+        "minplayers": 3,
+        "maxplayers": 8,
+        "minplaytime": 120,
+        "maxplaytime": 240,
+        "year": "2019",
+        "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
+        "age": "14+",
+        "best_players": "6",
+        "image_url": "https://cf.geekdo-images.com/hz59P7Dxi8e9szrzL42zAQ__original/img/FrpP2lIfBaD5R43ba0V8Ey8Zi60=/0x0/filters:format(jpeg)/pic4681569.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/hz59P7Dxi8e9szrzL42zAQ__small/img/KtBeninbNZpAjopDVcB7bcDC6lE=/fit-in/200x150/filters:strip_icc()/pic4681569.jpg",
+        "description": "Cross the Narrow Sea with the Mother of Dragons expansion for A Game of Thrones: The Board Game! Clawing their way into power, this expansion includes a side board of the Free Cities of Essos and an overlay of the Eyrie, as well as new characters and mechanics to bring House Targaryen and House Arryn into the fray. As you make your claim to the Iron Throne, you can call other Houses to your cause with the new vassal mechanic, or even ask for aid from the Iron Bank of Braavos. But be cautious, for the Iron Bank will have its due, and if your campaign proves to be a poor investment, the money lenders' retribution will be swift.\n\n&mdash;description from the publisher",
+        "categories": "Bluffing, Expansion for Base-game, Fantasy, Negotiation, Novel-based, Political, Wargame",
+        "mechanics": "Area Majority / Influence, Area Movement, Auction / Bidding, Hand Management, Negotiation, Player Elimination, Simultaneous Action Selection, Variable Player Powers"
       }
     ]
   },
@@ -480,6 +702,11 @@ const gamesData = [
     "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "age": "12+",
     "best_players": "4",
+    "image_url": "https://cf.geekdo-images.com/ea8y04WKGgdQkFy1Pbw9tA__original/img/F_xGJIZyrFTkGwRRhV4wk8uVbh4=/0x0/filters:format(jpeg)/pic1320091.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/ea8y04WKGgdQkFy1Pbw9tA__small/img/eph2ZknTAhhs-A8ij76DJbhzjrs=/fit-in/200x150/filters:strip_icc()/pic1320091.jpg",
+    "description": "In this classic Steve Jackson (I) game of world domination, each player is a secret society attempting to spread its tendrils into special interest groups throughout the world. This edition comes with additional cards and reworked graphics to bring the venerable game up to date.\n\nRe-issue of:\n\n    Illuminati (Small plastic box with 54 black and white cards and paper money)\n\n\nExpansions:\n\n    Illuminati: Y2K\n    Illuminati: Brainwash (re-work of Illuminati Expansion Set 3)\n    Illuminati: Bavarian Fire Drill\n    Illuminati: Mutual Assured Distraction\n\n\nSpin Off:\n\n    Illuminati: Crime Lords",
+    "categories": "Card Game, Humor, Negotiation, Political, Science Fiction",
+    "mechanics": "Dice Rolling, Network and Route Building, Open Drafting, Tile Placement, Variable Player Powers",
     "expansions": []
   },
   {
@@ -493,6 +720,11 @@ const gamesData = [
     "language_dependence": "No necessary in-game text",
     "age": "6+",
     "best_players": "2,4",
+    "image_url": "https://cf.geekdo-images.com/c0m3gwZTcfKoLI63ASio8g__original/img/HT6NQPT0cSFcZXjSewtjTO_NBAE=/0x0/filters:format(png)/pic8443569.png",
+    "thumbnail_url": "https://cf.geekdo-images.com/c0m3gwZTcfKoLI63ASio8g__small/img/4p4Xydg0tze9UFcd6oUbCnVyxCw=/fit-in/200x150/filters:strip_icc()/pic8443569.png",
+    "description": "In Kingdomino, you are a lord seeking new lands in which to expand your kingdom. You must explore all the lands, including wheat fields, lakes, and mountains, in order to spot the best plots, while competing with other lords to acquire them first.\n\nThe game uses tiles with two sections, similar to Dominoes. Each turn, each player will select a new domino to connect to their existing kingdom, making sure at least one of its sides connects to a matching terrain type already in play. The order of who picks first depends on which tile was previously chosen, with better tiles forcing players to pick later in the next round. The game ends when each player has completed a 5x5 grid (or failed to do so), and points are counted based on number of connecting tiles and valuable crown symbols.",
+    "categories": "Abstract Strategy, Medieval, Puzzle, Territory Building",
+    "mechanics": "Enclosure, Open Drafting, Tile Placement, Turn Order: Claim Action",
     "expansions": []
   },
   {
@@ -506,6 +738,29 @@ const gamesData = [
     "language_dependence": "No necessary in-game text",
     "age": "Up to 14",
     "best_players": "4",
+    "image_url": "https://cf.geekdo-images.com/O3JBEYL0L4H8nVk9dyA1EQ__original/img/GiTpp2MvUVg6LRr62n0_4mCkRlE=/0x0/filters:format(jpeg)/pic3713656.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/O3JBEYL0L4H8nVk9dyA1EQ__small/img/2Zto3S7je8LJ2-dPGn8xdPeKAKk=/fit-in/200x150/filters:strip_icc()/pic3713656.jpg",
+    "description": "In the Court of King Arthur, you are the Knights that prove their individual valor by performing heroic deeds, setting out on the quest for the Grail, and obtaining the Knightly Virtues. The goal? To be elected First Knight &mdash; Lancelot &mdash; he who will steal the heart of Queen Guinevere.\n\nIn Lancelot, you will travel the lands of ancient Britain, courting ladies and defeating enemy knights to gain Knightly Virtues. You will walk other paths to fulfill quests. You will meet the Lady of the Lake and as reward, she will gift you the legendary sword, Excalibur &mdash; and Excalibur will keep you safe for just as Merlin may be your ally, your true enemy will be Morgana!",
+    "categories": "Fantasy, Medieval, Novel-based",
+    "mechanics": "Point to Point Movement, Set Collection",
+    "expansions": []
+  },
+  {
+    "name": "Le Case della Follia: Seconda Edizione",
+    "itemtype": "standalone",
+    "minplayers": 1,
+    "maxplayers": 5,
+    "minplaytime": 120,
+    "maxplaytime": 180,
+    "year": "2016",
+    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
+    "age": "12+",
+    "best_players": "3,4",
+    "image_url": "https://cf.geekdo-images.com/LIooA9bTdjnE9qmhjL-UFw__original/img/Go6c8-ZiXomS8E7X4MBCdDd-aZc=/0x0/filters:format(jpeg)/pic3118622.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/LIooA9bTdjnE9qmhjL-UFw__small/img/kwaa7aI2sMeyWV5JSRKcKrS5hC8=/fit-in/200x150/filters:strip_icc()/pic3118622.jpg",
+    "description": "Mansions of Madness: Second Edition is a fully co-operative, app-driven board game of horror and mystery for one to five players that takes place in the same universe as Eldritch Horror and Elder Sign. Let the immersive app guide you through the veiled streets of Innsmouth and the haunted corridors of Arkham's cursed mansions as you search for answers and respite. Eight brave investigators stand ready to confront four scenarios of fear and mystery, collecting weapons, tools, and information, solving complex puzzles, and fighting monsters, insanity, and death. Open the door and step inside these hair-raising Mansions of Madness: Second Edition. It will take more than just survival to conquer the evils terrorizing this town.",
+    "categories": "Adventure, Exploration, Fantasy, Fighting, Horror, Miniatures, Murder / Mystery, Mythology, Novel-based, Puzzle",
+    "mechanics": "Area Movement, Cooperative Game, Dice Rolling, Hand Management, Map Addition, Modular Board, Role Playing, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Stat Check Resolution, Traitor Game, Variable Player Powers",
     "expansions": []
   },
   {
@@ -519,6 +774,11 @@ const gamesData = [
     "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "age": "10+",
     "best_players": "2,4",
+    "image_url": "https://cf.geekdo-images.com/1nxn5PtVk-cbS3tHDg4Xlg__original/img/o3-QpsK2whgEm0teQ3IqwoC9zyk=/0x0/filters:format(jpeg)/pic6619019.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/1nxn5PtVk-cbS3tHDg4Xlg__small/img/vSamcRiZrL_RSpCkeCwL2sotMCw=/fit-in/200x150/filters:strip_icc()/pic6619019.jpg",
+    "description": "In Marvel Zombies: A Zombicide Game, the hunger takes hold after many superheroes in the Marvel Universe have been turned into zombies. You play as these infected heroes and will be eating people to satisfy your hunger...and objectives within the game.\n\nMarvel Zombicide is a stand-alone game using mostly the same Zombicide mechanics but set in the Marvel Universe.",
+    "categories": "Comic Book / Strip, Fighting, Horror, Miniatures, Movies / TV / Radio theme, Zombies",
+    "mechanics": "Action Points, Cooperative Game, Dice Rolling, Modular Board, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Variable Player Powers",
     "expansions": []
   },
   {
@@ -532,7 +792,29 @@ const gamesData = [
     "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "age": "10+",
     "best_players": "4",
+    "image_url": "https://cf.geekdo-images.com/J-ts3MW0UhDzs621TR6cog__original/img/FbqPPCilgZKND2xmhWJgkfjZiYE=/0x0/filters:format(jpeg)/pic1871016.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/J-ts3MW0UhDzs621TR6cog__small/img/8hVkpMC5pDLr6ARI_4gI4N3aF5M=/fit-in/200x150/filters:strip_icc()/pic1871016.jpg",
+    "description": "Publisher's DescriptionGo down in the dungeon. Kill everything you meet. Backstab your friends and steal their stuff. Grab the treasure and run.\n\nAdmit it. You love it.\n\nThis award-winning card game, designed by Steve Jackson, captures the essence of the dungeon experience... with none of that stupid roleplaying stuff. You and your friends compete to kill monsters and grab magic items. And what magic items! Don the Horny Helmet and the Boots of Butt-Kicking. Wield the Staff of Napalm... or maybe the Chainsaw of Bloody Dismemberment. Start by slaughtering the Potted Plant and the Drooling Slime, and work your way up to the Plutonium Dragon...\n\nAnd it's illustrated by John Kovalic! Fast-playing and silly, Munchkin can reduce any roleplaying group to hysteria. And, while they're laughing, you can steal their stuff.\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tOtherPart of the Munchkin series.\n\nMunchkin is a satirical card game based on the clich&eacute;s and oddities of Dungeons and Dragons and other role-playing games. Each player starts at level 1 and the winner is the first player to reach level 10. Players can acquire familiar D&D style character classes during the game which determine to some extent the cards they can play.\n\nThere are two types of cards - treasure and encounters. Each turn the current players 'kicks down the door' - drawing an encounter card from the deck. Usually this will involve battling a monster. Monsters have their own levels and players must try and overcome it using the levels, weapons and powers they have acquired during the game or run away. Other players can chose to help the player or hinder by adding extra monsters to the encounter. Defeating a monster will usually result in drawing treasure cards and acquiring levels.  Being defeated by a monster results in \"bad stuff\" which usually involves losing levels and treasure.\n\nIn May 2010, Steve Jackson Games made the \"big announcement.\" Many rules and cards were changed. See The Great 2010 Munchkin Changeover for details. Of note to Munchkin fans, the Kneepads of Allure card, which had been removed in the 14th printing, was added back to the game but modified to be less powerful.\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tSequels:\n    The Good, the Bad, and the Munchkin\n    Munchkin Apocalypse\n    Munchkin Axe Cop\n    Munchkin Bites!\n    Munchkin Booty\n    Munchkin Conan\n    Munchkin Cthulhu\n    Munchkin Fu\n    Munchkin Impossible\n    Munchkin Legends\n    Munchkin Pathfinder\n    Munchkin Zombies\n    Star Munchkin\n    Super Munchkin\n\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tRelated Board Games\n    Munchkin Quest\n\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tOnline play\n     Vassal does not support Munchkin anymore. Former link: Vassal Module\n\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tPegasus Expansions\n    Munchkin Sammlerbox\n    Munchkin Sammlerkoffer\n    Munchkin Promotional Bookmarks\n    Munchkin Weihnachtsedition - The same as Munchkin, but with a promotional button that grants the wearer extra treasure (when worn in December). \n\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tOnline PlaythroughThere's a great YouTube playthrough with Will Wheaton and Steve Jackson (yes, the Steve Jackson) found here LINK",
+    "categories": "Card Game, Fantasy, Fighting, Humor",
+    "mechanics": "Hand Management, Race, Take That, Variable Player Powers",
     "expansions": [
+      {
+        "name": "Il Buono, il Brutto e il Munchkin",
+        "itemtype": "expansion",
+        "minplayers": 3,
+        "maxplayers": 6,
+        "minplaytime": 90,
+        "maxplaytime": 90,
+        "year": "2012",
+        "language_dependence": "Extensive use of text - massive conversion needed to be playable",
+        "age": "10+",
+        "best_players": "4,5",
+        "image_url": "https://cf.geekdo-images.com/l6IEkuhpfFlen1F_Fswy5w__original/img/VVSGaReIfGpvwJdiKLRw6O4DcqU=/0x0/filters:format(jpeg)/pic221497.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/l6IEkuhpfFlen1F_Fswy5w__small/img/1V6I4D3RHlN0olgekRqkC0E4mUk=/fit-in/200x150/filters:strip_icc()/pic221497.jpg",
+        "description": "Oh, give me a home where the Jackalopes roam\nAnd the Dudes and the Buckaroos play,\nI'll slay and I'll loot, give the monsters the boot,\nAnd the dice are not loaded, no way.\n\nThe Good, the Bad, and the Munchkin opens a whole new frontier - the Wild West! Forget dragons and goblins - Jackalopes and Davy Croc have just as much treasure. Those plains may seem wide open, but there's lots of monsters to kill, and lots of stuff to take.\n\nBecome a Cowboy with a Twenty-Gallon Hat, or an Indian on a Catamount. Fight Wild Bill Hiccup, the Killer Jalapeno, and a Barber Shop Quartet. Take The Annual Bath for an extra level. Or just pal around with your sidekick the Greenhorn, until you sacrifice him to distract a monster.\n\nThe Good, the Bad, and the Munchkin is the next stand-alone game in the award-winning Munchkin line. Steve Jackson (I) and John Kovalic have teamed up again to put puns to paper like no one else can. Head 'em up and move 'em out, and get ready to wander the Grim Roper into somebody else's combat and make him \"Rootin' Tootin'\" for +10...",
+        "categories": "American West, Card Game, Fighting, Humor",
+        "mechanics": "Dice Rolling, Trading, Variable Player Powers"
+      },
       {
         "name": "Munchkin 2/3: L'Ascia o Raddoppia",
         "itemtype": "expansion",
@@ -543,7 +825,12 @@ const gamesData = [
         "year": "2004",
         "language_dependence": "Extensive use of text - massive conversion needed to be playable",
         "age": "",
-        "best_players": ""
+        "best_players": "",
+        "image_url": "https://cf.geekdo-images.com/BS_7a_3Z59xuIkD7NkohQA__original/img/R32d6GJALIc0mua8CYNKico7OTo=/0x0/filters:format(jpeg)/pic195995.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/BS_7a_3Z59xuIkD7NkohQA__small/img/l8WeEfA0nwloPti1q4MjQ-7_1_w=/fit-in/200x150/filters:strip_icc()/pic195995.jpg",
+        "description": "It is the Italian expansion for Munchkin; it consists of both Munchkin 2: Unnatural Axe and Munchkin 3: Clerical Errors.\nThere are two bonus cards, for a total of 224 cards.\n\nExpands:\n\n     Munchkin\n\n\nPart of the Munchkin series",
+        "categories": "Expansion for Base-game, Card Game, Fantasy, Humor",
+        "mechanics": "Hand Management"
       },
       {
         "name": "Munchkin 4: Destri Destrieri",
@@ -555,7 +842,12 @@ const gamesData = [
         "year": "2005",
         "language_dependence": "Extensive use of text - massive conversion needed to be playable",
         "age": "12+",
-        "best_players": "4,5"
+        "best_players": "4,5",
+        "image_url": "https://cf.geekdo-images.com/tL5l1KEBOZDnQ7CvBwUGzA__original/img/L2sDIic5-jpy0yFeMaixVkItpLw=/0x0/filters:format(jpeg)/pic2428686.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/tL5l1KEBOZDnQ7CvBwUGzA__small/img/mc4dIKqSL0tvyxVhdAqisSH8DzU=/fit-in/200x150/filters:strip_icc()/pic2428686.jpg",
+        "description": "Publisher's DescriptionMunchkin 4: The Need for Steed is the latest expansion for the original Munchkin - 112 more John Kovalic-illustrated cards for killing monsters, stealing treasure, and backstabbing your fellow players. This set introduces Steeds, the trusty mounts of legend... Oh, wait - this is Munchkin! So these Steeds include not just the Dragon and the Tiger, but the Giant Mutant Gerbil (drawn by guest artist Shaenon K. Garrity of Narbonic), the Chicken, and Big Joe, who might be a Steed or might be a Hireling. It's hard to tell.\n\nHireling? Yes indeed, The Need for Steed has lots and lots of Hirelings, who look quite a bit like Sidekicks from Super Munchkin, or Minions from Munchkin Bites! Add these valuable characters to your retinue, use their special abilities, and sacrifice them without a thought to save your own skin! Or, better yet, kill somebody else's Hireling. That's the way a Munchkin does it!\n\nFeel the need... The Need for Steed\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tOtherPart of the Munchkin series.",
+        "categories": "Card Game, Expansion for Base-game, Fantasy, Fighting, Humor",
+        "mechanics": "Dice Rolling, Hand Management, Open Drafting, Take That, Variable Player Powers"
       },
       {
         "name": "Munchkin 5, 6 e 7: Tutti i Mostri Fatti a Fette",
@@ -567,139 +859,218 @@ const gamesData = [
         "year": "2013",
         "language_dependence": "Extensive use of text - massive conversion needed to be playable",
         "age": "",
-        "best_players": ""
+        "best_players": "",
+        "image_url": "https://cf.geekdo-images.com/36-2e51k9jjNoUnkuxmhBQ__original/img/-ZIFR0gWj8GcB1-cpl9wg2UFuKY=/0x0/filters:format(jpeg)/pic4943645.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/36-2e51k9jjNoUnkuxmhBQ__small/img/AW4sLSXyRLiE1Y4DiU5H1kdcXcI=/fit-in/200x150/filters:strip_icc()/pic4943645.jpg",
+        "description": "It is an Italian expansion for Munchkin. It consists of Munchkin 5: De-Ranged, Munchkin 6: Demented Dungeons, Munchkin 7: Cheat With Both Hands, Munchkin Marked for Death, Munchkin Monster Enhacers plus some promos.\n\nFrom publisher website:\n\nAmmettetelo... Avete sempre desiderato combinare tutti i set di Munchkin per giocarli assieme. Pi&ugrave; demenziali e folli le cose diventano, meglio &egrave;. Ora potete decisamente imboccare il tunnel della pazzia senza ritorno e giocare a Super Star Munchkin Cthulhu Zombi dei Caraibi FU di Nuovo!\n\nQuesta espansione non solo vi dar&agrave; una vera marea di carte in pi&ugrave;, ma &egrave; costruita apposta per mescolare tutto. E laddove unSuper Munchkin non bastava, ora avrete un Ultra Munchkin. Se i Mezzosangue erano scarsi, i Terzosangue vi daranno quel che volevate. E se non vi basta essere un Baro!, ora potrete essere Bari con Entrambe le Mani! Una miriade di Potenziamenti per Mostri e Oggetti&hellip; e un nuovo tipo di carta, il Potenziamento del Potenziamento! Per la prima volta la nuova Classe: il Ranger! Ora potrete addomesticare i Mostri e usarli come Destrieri! E ora, oltre alle carte Caverna gi&agrave; viste in Munchkin Cthulhu, potrete aggiungere addirittura le nuovissime e gigantesche carte Dungeon con questo set! Pi&ugrave; nuove carte Portale!",
+        "categories": "Card Game, Expansion for Base-game, Fantasy, Fighting, Humor",
+        "mechanics": "Dice Rolling, Hand Management, Open Drafting, Variable Player Powers"
+      },
+      {
+        "name": "Munchkin Apocalisse",
+        "itemtype": "expansion",
+        "minplayers": 3,
+        "maxplayers": 6,
+        "minplaytime": 90,
+        "maxplaytime": 90,
+        "year": "2012",
+        "language_dependence": "Extensive use of text - massive conversion needed to be playable",
+        "age": "10+",
+        "best_players": "4,5",
+        "image_url": "https://cf.geekdo-images.com/lPlY8OvD0YprrXnddmrYRw__original/img/-wc91x1xHTGmm-K8zWd232gPMAY=/0x0/filters:format(jpeg)/pic1408454.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/lPlY8OvD0YprrXnddmrYRw__small/img/hIMGaOkzB7l4B3YMvtPc7nYRJjA=/fit-in/200x150/filters:strip_icc()/pic1408454.jpg",
+        "description": "Munchkin Apocalypse is a core set in the Munchkin series with an end of the world theme that includes natural disasters, zombie takeovers, Armageddon, alien invasions, nuclear war, etc. And while this is still a standard Munchkin game where you try to level up by killing the monsters, stealing the treasure, and stabbing your buddy, there's a new \"Seal\" mechanic that significantly changes the gameplay.\n\nSeals are a reference to the biblical seals of the Apocalypse. They can be opened and closed, although it's typically more difficult to close them. Once seven Seals are open, the game ends immediately, and the player with the highest combat strength (excluding levels) is the winner. The Seal mechanic adds a sense of impending doom to the game, meant to mimic the sense of impending doom for a real apocalypse. It also tends to create situations where the group works together to close a Seal in order to prevent a player from winning via the Seal mechanic. So there is more teamwork than in a regular Munchkin game.\n\nThe balance of the deck is also different than the other Munchkin sets. There are a lot more Disaster cards, which are equivalent to traps and curses, so bad things tend to occur more frequently. Also, there are more monsters, especially high-level monsters. To offset this, however, there are more item enhancers and high-bonus items. It's been stated in the Munchkin forums that Munchkin Apocalypse is harder to play and is intended more for seasoned Munchkin veterans.\n\nMunchkin Apocalypse has four new classes but does not have races, powers, or other \"thingies\". It includes Undead and Shark monsters, which follow special rules.\n\nThe game comes with 180 cards (92 Doors, 76 Treasures, 12 Seals). The Seal cards are a different size than the regular cards--they're square and are shorter but wider (2.75\" x 2.75\"). The included d6 is orange with lime green pips, similar in color to the orange dice in the +6 Bag o' Radioactive Munchkin d6.",
+        "categories": "Card Game, Fighting, Humor",
+        "mechanics": "Dice Rolling, Hand Management, Variable Player Powers"
+      },
+      {
+        "name": "Munchkin Conan",
+        "itemtype": "expansion",
+        "minplayers": 3,
+        "maxplayers": 6,
+        "minplaytime": 90,
+        "maxplaytime": 90,
+        "year": "2014",
+        "language_dependence": "Extensive use of text - massive conversion needed to be playable",
+        "age": "",
+        "best_players": "4",
+        "image_url": "https://cf.geekdo-images.com/d-pk6LpCer0AeCtjnDnWXw__original/img/2ua8W1jHvPf7bo6JnB0Uk67ZEl8=/0x0/filters:format(jpeg)/pic1292110.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/d-pk6LpCer0AeCtjnDnWXw__small/img/e2ikQMJTFAz6KHaBq2bJGTZnVmM=/fit-in/200x150/filters:strip_icc()/pic1292110.jpg",
+        "description": "Munchkin Conan is a 168-card core set in the Munchkin family of games, with 101 Doors and 67 Treasures. Unlike other core sets, it lacks unique card backs, instead using the standard card back from Munchkin. The included Munchkin-head d6 is yellow with dark red print.\n\nIn Munchkin Conan, Robert E. Howard's epic hero gets the full Munchkin treatment. Play a Cimmerian Warrior or a Stygian Wizard! Wield the Sword of the Phoenix and poison your foes with Black Lotus! Slay Thoth-Amon's minions, Pict raiders, and abominable monsters, and hear the lamentations of their women! On many of the cards, the publisher provides context by including relevant quotes from Howard's work.\n\nMunchkin Conan has a new type of card &ndash; birthright &ndash; and the mechanisms are similar to that of classes and races in that you can have only one in play at a time; you may discard a birthright at any time but may play one only on your turn or when you first get it. The Munchkin Conan core set comes with two birthrights: \"Noble\", which allows you to have an extra Comrade (see below), and \"Barbarian\", which allows you to ignore all \"Usable By\" and \"Not Usable By\" restrictions on items. There is no birthright analogue to \"Super Munchkin\" or \"Half-Breed\".\n\nSpeaking of races and classes, the races in Munchkin Conan are \"Kushite\", \"Zamoran\", \"Cimmerian\", and \"Stygian\"; when playing a blender game, they are all considered to be human unless the other sets have non-human races. The classes are \"Cleric\", \"Thief\", \"Warrior\", and \"Wizard\", and are identical to the fantasy Munchkin classes with the same names.\n\nThe Munchkin Conan hireling is called a Comrade. Comrades fall in the same class as the Hirelings, Minions, Mooks, Sidekicks, etc. that come with other flavors of Munchkin. Each Comrade is associated with a class or birthright, and gives you some of the advantages of that class/birthright. Comrades can carry an item for you, even some that you can't legally use yourself, and their gender matters. They also have the standard Hireling ability to sacrifice themselves to give you an automatic escape when running away.\n\nPart of the Munchkin series.",
+        "categories": "Card Game, Comic Book / Strip, Fantasy, Fighting, Humor",
+        "mechanics": "Dice Rolling, Hand Management, Take That, Variable Player Powers"
+      },
+      {
+        "name": "Munchkin Cthulhu",
+        "itemtype": "expansion",
+        "minplayers": 3,
+        "maxplayers": 6,
+        "minplaytime": 90,
+        "maxplaytime": 90,
+        "year": "2008",
+        "language_dependence": "Extensive use of text - massive conversion needed to be playable",
+        "age": "12+",
+        "best_players": "4",
+        "image_url": "https://cf.geekdo-images.com/xFlGGfyoP4Pb-nYKxJTi7A__original/img/Wpa4WcLLng6qxx5zysK7ieQVGNk=/0x0/filters:format(jpeg)/pic162995.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/xFlGGfyoP4Pb-nYKxJTi7A__small/img/ZaNWqdXzlw46-hrwsxTrBfWfGt8=/fit-in/200x150/filters:strip_icc()/pic162995.jpg",
+        "description": "Munchkins have hacked their way through dungeons, kung fu temples, starships, haunted houses, and super-foes. Now they face their greatest challenge &ndash; Cthulhu! Will they survive? Will they retain their sanity? Will they...level up?\n\nMunchkin Cthulhu is a standalone game in the Munchkin universe, this time lampooning Lovecraft's Mythos and the horror gaming that surrounds it. This base game features four new Classes, including the Cultist, and a lot of classic monsters from outside reality &ndash; and they all have Stuff you can take from their twitching bodies. You can play Munchkin Cthulhu by itself, or combine it with any number of other Munchkin titles for mind-bending silliness.\n\nPart of the Munchkin series.\n\nMunchkin is a satirical card game based on the clich&eacute;s and oddities of Dungeons and Dragons and other role-playing games. Each player starts at level 1 and the winner is the first player to reach level 10. Players can acquire familiar D&D style character classes during the game which determine to some extent the cards they can play.\n\nThere are two types of cards - treasure and encounters. Each turn the current players 'kicks down the door' - drawing an encounter card from the deck. Usually this will involve battling a monster. Monsters have their own levels and players must try and overcome it using the levels, weapons and powers they have acquired during the game or run away. Other players can chose to help the player or hinder by adding extra monsters to the encounter. Defeating a monster will usually result in drawing treasure cards and acquiring levels. Being defeated by a monster results in \"bad stuff\" which usually involves losing levels and treasure.",
+        "categories": "Card Game, Fighting, Horror, Humor",
+        "mechanics": "Dice Rolling, Trading, Variable Player Powers"
+      },
+      {
+        "name": "Munchkin dei Caraibi",
+        "itemtype": "expansion",
+        "minplayers": 3,
+        "maxplayers": 6,
+        "minplaytime": 90,
+        "maxplaytime": 90,
+        "year": "2009",
+        "language_dependence": "Extensive use of text - massive conversion needed to be playable",
+        "age": "12+",
+        "best_players": "4,5",
+        "image_url": "https://cf.geekdo-images.com/zTZwoDaaeBw_iUK8I3_dYg__original/img/pSPjuE4KIp0qKTeFmJuKETkeHhI=/0x0/filters:format(jpeg)/pic338759.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/zTZwoDaaeBw_iUK8I3_dYg__small/img/F-BR4sbXAGPOUcETreUjOma_EXU=/fit-in/200x150/filters:strip_icc()/pic338759.jpg",
+        "description": "Sail the Seven Seas. Plunder the treasure. Make your crew walk the plank.\n\nMunchkin Booty brings the greatest gold-grabbers in history &ndash; pirates! &ndash; to the world of Munchkin. Use your Silver Long Johns to beat the Lobster Mobster, drink your Demon Rum to fight off the Viking Kittens, and defend yourself with the Cutlass (or Cutlad, for the gents) against the Prince of Whales. But watch out for Sharks!\n\nPlunder the seven seas as a Pirate, Naval Officer, or Merchant. Taunt your foes with your horrible Accent: British, Spanish, Dutch, or French. Equip your Half-Galleon with a Crow's Nest and Figurehead. But above all...level up!\n\nMunchkin Booty is a standalone card game that's compatible with the original Munchkin and other titles in the same universe of games.\n\nPart of the Munchkin series.\n\nMunchkin is a satirical card game based on the clich&eacute;s and oddities of Dungeons and Dragons and other role-playing games. Each player starts at level 1 and the winner is the first player to reach level 10. Players can acquire familiar D&D style character classes during the game which determine to some extent the cards they can play.\n\nThere are two types of cards - treasure and encounters. Each turn the current players 'kicks down the door' - drawing an encounter card from the deck. Usually this will involve battling a monster. Monsters have their own levels and players must try and overcome it using the levels, weapons and powers they have acquired during the game or run away. Other players can chose to help the player or hinder by adding extra monsters to the encounter. Defeating a monster will usually result in drawing treasure cards and acquiring levels. Being defeated by a monster results in \"bad stuff\" which usually involves losing levels and treasure.\n\nNote: The 2012 edition of Munchkin Booty from Pegasus Spiele includes the first expansion, Munchkin Booty 2: Jump the Shark.",
+        "categories": "Card Game, Fighting, Humor, Pirates",
+        "mechanics": "Dice Rolling, Take That, Trading, Variable Player Powers"
+      },
+      {
+        "name": "Munchkin Fu",
+        "itemtype": "expansion",
+        "minplayers": 3,
+        "maxplayers": 6,
+        "minplaytime": 90,
+        "maxplaytime": 90,
+        "year": "2007",
+        "language_dependence": "Extensive use of text - massive conversion needed to be playable",
+        "age": "10+",
+        "best_players": "4,5",
+        "image_url": "https://cf.geekdo-images.com/7qJ3qL1f6RaPGlbtC3A_qQ__original/img/09IAxzuNjKRu1rMhG4j9Hvm9O9s=/0x0/filters:format(jpeg)/pic26270.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/7qJ3qL1f6RaPGlbtC3A_qQ__small/img/Fz-orLJt707QUUcEZ0jHT8a-HrU=/fit-in/200x150/filters:strip_icc()/pic26270.jpg",
+        "description": "Publisher's DescriptionIf you loved Munchkin... look out. Here they come again.\n\n\"I'm a Ninja with the Dragon Tooth Katana!\"\n\"I'm a Monk with the Sai of Spleen Mangling. Fear my Drunken Monkey Kung Fu!\"\n\"I'm a Yakuza with a gun. Run away!\"\n\nThe Munchkins are back! Now the game is chop-socky Hong Kong action. The characters are Samurai, Ninja, Yakuza, and Monks. The foes are mooks, demons, and assorted bad guys from all the worst martial arts films you've ever seen. Collect treasures and learn new styles to build up your character's powers. Kill the monsters, take their stuff, and be the first one to 10th level!\n\nCreated by Steve Jackson (I). Munchkin Fu is completely compatible with the entire Munchkin line.\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tOtherPart of the Munchkin series.\n\nMunchkin is a satirical card game based on the clich&eacute;s and oddities of Dungeons and Dragons and other role-playing games. Each player starts at level 1 and the winner is the first player to reach level 10. Players can acquire familiar D&D style character classes during the game which determine to some extent the cards they can play.\n\nThere are two types of cards - treasure and encounters. Each turn the current players 'kicks down the door' - drawing an encounter card from the deck. Usually this will involve battling a monster. Monsters have their own levels and players must try and overcome it using the levels, weapons and powers they have acquired during the game or run away. Other players can chose to help the player or hinder by adding extra monsters to the encounter. Defeating a monster will usually result in drawing treasure cards and acquiring levels. Being defeated by a monster results in \"bad stuff\" which usually involves losing levels and treasure.",
+        "categories": "Card Game, Fighting, Humor",
+        "mechanics": "Dice Rolling, Trading, Variable Player Powers"
+      },
+      {
+        "name": "Munchkin Leggende",
+        "itemtype": "expansion",
+        "minplayers": 3,
+        "maxplayers": 6,
+        "minplaytime": 60,
+        "maxplaytime": 120,
+        "year": "2013",
+        "language_dependence": "Extensive use of text - massive conversion needed to be playable",
+        "age": "8+",
+        "best_players": "3",
+        "image_url": "https://cf.geekdo-images.com/5RVDYX231cxsf7WTRM9BeA__original/img/F7IF0h4uhUwMZqVzn2lfWsTyMWg=/0x0/filters:format(jpeg)/pic1698736.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/5RVDYX231cxsf7WTRM9BeA__small/img/dFyRAG9AxM8X-_M634xR3tnmk6Y=/fit-in/200x150/filters:strip_icc()/pic1698736.jpg",
+        "description": "Game description from the publisher:\n\nRaid the world of myth and legend! Crush every foe you meet. Backstab your friends and steal their stuff. Grab the treasure and run.\n\nMunchkin Legends is the new Munchkin card game about legendary adventure...with none of that stupid roleplaying stuff. You'll defeat mythic monsters and grab fabled magic items! Don the Death Mask and Achilles' Heels. Wield Thor's Hammer...or maybe the Magic Bassoon. Start by slaughtering the Heebie-Jeebies and Johnny Zucchiniseed, and work your way up to the Kraken...",
+        "categories": "Ancient, Card Game, Fantasy, Humor, Mythology",
+        "mechanics": "Dice Rolling, Hand Management, Open Drafting, Take That, Variable Player Powers"
+      },
+      {
+        "name": "Munchkin Morde!",
+        "itemtype": "expansion",
+        "minplayers": 3,
+        "maxplayers": 6,
+        "minplaytime": 90,
+        "maxplaytime": 90,
+        "year": "2007",
+        "language_dependence": "Extensive use of text - massive conversion needed to be playable",
+        "age": "12+",
+        "best_players": "4,5",
+        "image_url": "https://cf.geekdo-images.com/p4_JH1WrhtbyWfi1iTTGQA__original/img/LzDDGdGqR3upoBtgYeuSMp0MXgA=/0x0/filters:format(jpeg)/pic49542.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/p4_JH1WrhtbyWfi1iTTGQA__small/img/LFzMTp4aejrYmeRufW6NRcx4EEw=/fit-in/200x150/filters:strip_icc()/pic49542.jpg",
+        "description": "It's the World of Dorkness!\n\nThe Munchkins are now vampires, werewolves and changelings. Bash through the haunted house and slay the monsters &ndash; the other monsters, that is. You can't slay your fellow munchkins, but you can curse them, send foes at them, and take their stuff.\n\nMunchkin Bites! is a standalone game, which can be combined with other Munchkin games. With illustrations John Kovalic, you'll see Igor, Gilly, and all the other Dork Tower characters in their munchkin-vampire finery, so bring along your Coffin (+3!) and wield The Sword Of Beheading People Just Like In That Movie. Face foes like the Banshee, the Heck Hounds, and the dreaded Were-Muskrat. Smite them all, and be the first to Level 10...\n\nPart of the Munchkin series.\n\nMunchkin is a satirical card game based on the clich&eacute;s and oddities of Dungeons and Dragons and other role-playing games. Each player starts at level 1 and the winner is the first player to reach level 10. Players can acquire familiar D&D style character classes during the game which determine to some extent the cards they can play.\n\nThere are two types of cards - treasure and encounters. Each turn the current players 'kicks down the door' - drawing an encounter card from the deck. Usually this will involve battling a monster. Monsters have their own levels and players must try and overcome it using the levels, weapons and powers they have acquired during the game or run away. Other players can chose to help the player or hinder by adding extra monsters to the encounter. Defeating a monster will usually result in drawing treasure cards and acquiring levels. Being defeated by a monster results in \"bad stuff\" which usually involves losing levels and treasure.\n\nNote: The Dutch first edition and German second edition include the first expansion for this game, Munchkin Bites! 2: Pants Macabre. The same applies to Italian edition.",
+        "categories": "Card Game, Fighting, Horror, Humor",
+        "mechanics": "Dice Rolling, Trading, Variable Player Powers"
+      },
+      {
+        "name": "Munchkin Oz",
+        "itemtype": "expansion",
+        "minplayers": 3,
+        "maxplayers": 6,
+        "minplaytime": 60,
+        "maxplaytime": 120,
+        "year": "2015",
+        "language_dependence": "Extensive use of text - massive conversion needed to be playable",
+        "age": "8+",
+        "best_players": "4,5",
+        "image_url": "https://cf.geekdo-images.com/B7KOYNiKVOIXZeTungXT6g__original/img/zmodNzRJi1bL8PbIZyVN89tYuRk=/0x0/filters:format(jpeg)/pic2600587.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/B7KOYNiKVOIXZeTungXT6g__small/img/cU-BNJxBVJuxAI4-cTur0fmdyOU=/fit-in/200x150/filters:strip_icc()/pic2600587.jpg",
+        "description": "Description from the publisher:\n\nAdventure with the Scarecrow and the Tin Woodsman! Brave the Poppy Fields or the Deadly Desert! Fight against a Wicked Witch or King Krewl! Visit the Emerald City and talk with Dorothy, Ozma, or the Cowardly Lion! Play a Professor, Royalty, Soldier ... or even a Wizard!\n\nL. Frank Baum's Oz books have been favorites of children and their parents ever since the books were published over a century ago. Now you can create your own adventure with Munchkin Oz!",
+        "categories": "Card Game, Fantasy, Fighting, Humor, Novel-based",
+        "mechanics": "Hand Management, Open Drafting, Take That, Variable Player Powers"
+      },
+      {
+        "name": "Munchkin Quest",
+        "itemtype": "expansion",
+        "minplayers": 2,
+        "maxplayers": 4,
+        "minplaytime": 180,
+        "maxplaytime": 180,
+        "year": "2010",
+        "language_dependence": "Extensive use of text - massive conversion needed to be playable",
+        "age": "12+",
+        "best_players": "4",
+        "image_url": "https://cf.geekdo-images.com/ICz9kzlFwkvjrNeLOuhIyA__original/img/_H7hbVCSt0qaSc3Dsc6yoLISLMg=/0x0/filters:format(jpeg)/pic294853.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/ICz9kzlFwkvjrNeLOuhIyA__small/img/bRRTjKNns5pXE8Uen_tz7RmNhpg=/fit-in/200x150/filters:strip_icc()/pic294853.jpg",
+        "description": "Kill the monster, grab the treasure, stab your buddy. That's what it's all about. Now, Munchkin has been transformed into a board game...\n\nIn Munchkin Quest, you can co-operate with the whole group, adventure with a partner, or strike out on your own. You don't know what's behind a door until you open it...then another tile is added to the dungeon. Battle monsters for power and treasure, or send them after your friends. Reach Level 10, then get out alive if you can!",
+        "categories": "Adventure, Exploration, Fantasy, Fighting, Humor",
+        "mechanics": "Dice Rolling, Modular Board, Role Playing"
+      },
+      {
+        "name": "Munchkin Zombi",
+        "itemtype": "expansion",
+        "minplayers": 3,
+        "maxplayers": 6,
+        "minplaytime": 90,
+        "maxplaytime": 90,
+        "year": "2011",
+        "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
+        "age": "10+",
+        "best_players": "4",
+        "image_url": "https://cf.geekdo-images.com/Vy2f9X76jdpb5BEkSyen5Q__original/img/ZqZXYUkEnOkGqE11jt7hznB-CkE=/0x0/filters:format(jpeg)/pic871528.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/Vy2f9X76jdpb5BEkSyen5Q__small/img/L8yb9qanZ0NaTI8vyKKBzG3o0Ww=/fit-in/200x150/filters:strip_icc()/pic871528.jpg",
+        "description": "In a reversal of roles, all players in Munchkin Zombies start out as zombies, and the \"monsters\" are the normal people trying to stop the zombie invasion (such as the Action Hero, Soccer Mom, Fireman, etc.). Unlike most Munchkin games, there are no classes or races; instead, you can have a mojo: Atomic Zombie, Plague Zombie, and Voodoo Zombie. As with Munchkin Bites! and Super Munchkin, Munchkin Zombies includes powers &ndash; special abilities that you can play as you gain levels.\n\nGuest artist is Alex Fernandez, who drew the Meals on Wheels card.\n\nPart of the Munchkin series.\n\nMunchkin is a satirical card game based on the clich&eacute;s and oddities of Dungeons and Dragons and other role-playing games. Each player starts at level 1 and the winner is the first player to reach level 10. Players can acquire familiar D&D style character classes during the game which determine to some extent the cards they can play.\n\nThere are two types of cards - treasure and encounters. Each turn the current players 'kicks down the door' - drawing an encounter card from the deck. Usually this will involve battling a monster. Monsters have their own levels and players must try and overcome it using the levels, weapons and powers they have acquired during the game or run away. Other players can chose to help the player or hinder by adding extra monsters to the encounter. Defeating a monster will usually result in drawing treasure cards and acquiring levels. Being defeated by a monster results in \"bad stuff\" which usually involves losing levels and treasure.\n\nNote: The 2012 edition of Munchkin Zombies from Pegasus Spiele includes the first expansion, Munchkin Zombies 2: Armed and Dangerous.",
+        "categories": "Card Game, Fighting, Humor, Zombies",
+        "mechanics": "Dice Rolling, Hand Management, Variable Player Powers"
+      },
+      {
+        "name": "Munchkinomicon",
+        "itemtype": "expansion",
+        "minplayers": 3,
+        "maxplayers": 6,
+        "minplaytime": 90,
+        "maxplaytime": 90,
+        "year": "2011",
+        "language_dependence": "Extensive use of text - massive conversion needed to be playable",
+        "age": "12+",
+        "best_players": "4,5",
+        "image_url": "https://cf.geekdo-images.com/MkeIk7Hk8gVEzb0lAr3qfw__original/img/7Mk4KJxGhxNoHj7AWLWCMx_AH5k=/0x0/filters:format(jpeg)/pic858301.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/MkeIk7Hk8gVEzb0lAr3qfw__small/img/Yf3BkL4zH3CyGyFjJJX3IDKDpjU=/fit-in/200x150/filters:strip_icc()/pic858301.jpg",
+        "description": "It's the ultimate book of spells . . . the Munchkinomicon. But beware! If you aren't munchkinly enough, the Munchkinomicon will slip away and find a more suitable host. This set includes the Munchkinomicon and 14 of its deviously cheesy spells, like United I Stand, Eldritch Cleaver, and Unnatural Compulsion.\n\nThis is an expansion for ANY Munchkin game. It is not a stand-alone game. This is NOT a collectible or randomized set. Every Munchkinomicon pack is the same as every other.\n\nPart of the Munchkin series",
+        "categories": "Card Game, Expansion for Base-game, Fantasy, Fighting, Humor",
+        "mechanics": "Dice Rolling, Hand Management, Variable Player Powers"
+      },
+      {
+        "name": "Star Munchkin",
+        "itemtype": "expansion",
+        "minplayers": 3,
+        "maxplayers": 6,
+        "minplaytime": 90,
+        "maxplaytime": 90,
+        "year": "2008",
+        "language_dependence": "Extensive use of text - massive conversion needed to be playable",
+        "age": "12+",
+        "best_players": "4",
+        "image_url": "https://cf.geekdo-images.com/jyfjZbaamMHD8q8MKG4jSg__original/img/-dDGprrarAhqz21AkW6ClnP-tCE=/0x0/filters:format(jpeg)/pic883059.jpg",
+        "thumbnail_url": "https://cf.geekdo-images.com/jyfjZbaamMHD8q8MKG4jSg__small/img/fAnBjOyb_Nk_1L2DJtUl3BOYZYU=/fit-in/200x150/filters:strip_icc()/pic883059.jpg",
+        "description": "The Munchkins are back &ndash; but now they're Mutants, Androids, and Cat People in space, grabbing Lasers, Vibroswords, and Nova Grenades and fighting Fanged Fuzzballs, Bionic Bimbos, and the Brain In A Jar. Star Munchkin is a complete game using the best-selling Munchkin rules (with a few new twists like Sidekicks), and it can be combined with any other Munchkin items.\n\nPart of the Munchkin series.\n\nMunchkin is a satirical card game based on the clich&eacute;s and oddities of Dungeons and Dragons and other role-playing games. Each player starts at level 1 and the winner is the first player to reach level 10. Players can acquire familiar D&D style character classes during the game which determine to some extent the cards they can play.\n\nThere are two types of cards - treasure and encounters. Each turn the current players 'kicks down the door' - drawing an encounter card from the deck. Usually this will involve battling a monster. Monsters have their own levels and players must try and overcome it using the levels, weapons and powers they have acquired during the game or run away. Other players can chose to help the player or hinder by adding extra monsters to the encounter. Defeating a monster will usually result in drawing treasure cards and acquiring levels. Being defeated by a monster results in \"bad stuff\" which usually involves losing levels and treasure.\n\nNote: The 2012 edition of Star Munchkin from Pegasus Spiele includes the first expansion, Star Munchkin 2: The Clown Wars. The same applies to Italian edition from Raven Distribution.",
+        "categories": "Card Game, Fighting, Humor, Science Fiction",
+        "mechanics": "Dice Rolling, Open Drafting, Take That, Trading, Variable Player Powers"
       }
     ]
-  },
-  {
-    "name": "Munchkin Apocalisse",
-    "itemtype": "standalone",
-    "minplayers": 3,
-    "maxplayers": 6,
-    "minplaytime": 90,
-    "maxplaytime": 90,
-    "year": "2012",
-    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
-    "age": "10+",
-    "best_players": "4,5",
-    "expansions": []
-  },
-  {
-    "name": "Munchkin Conan",
-    "itemtype": "standalone",
-    "minplayers": 3,
-    "maxplayers": 6,
-    "minplaytime": 90,
-    "maxplaytime": 90,
-    "year": "2014",
-    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
-    "age": "",
-    "best_players": "4",
-    "expansions": []
-  },
-  {
-    "name": "Munchkin Cthulhu",
-    "itemtype": "standalone",
-    "minplayers": 3,
-    "maxplayers": 6,
-    "minplaytime": 90,
-    "maxplaytime": 90,
-    "year": "2008",
-    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
-    "age": "12+",
-    "best_players": "4",
-    "expansions": []
-  },
-  {
-    "name": "Munchkin dei Caraibi",
-    "itemtype": "standalone",
-    "minplayers": 3,
-    "maxplayers": 6,
-    "minplaytime": 90,
-    "maxplaytime": 90,
-    "year": "2009",
-    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
-    "age": "12+",
-    "best_players": "4,5",
-    "expansions": []
-  },
-  {
-    "name": "Munchkin Fu",
-    "itemtype": "standalone",
-    "minplayers": 3,
-    "maxplayers": 6,
-    "minplaytime": 90,
-    "maxplaytime": 90,
-    "year": "2007",
-    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
-    "age": "10+",
-    "best_players": "4,5",
-    "expansions": []
-  },
-  {
-    "name": "Munchkin Leggende",
-    "itemtype": "standalone",
-    "minplayers": 3,
-    "maxplayers": 6,
-    "minplaytime": 60,
-    "maxplaytime": 120,
-    "year": "2013",
-    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
-    "age": "8+",
-    "best_players": "3",
-    "expansions": []
-  },
-  {
-    "name": "Munchkin Morde!",
-    "itemtype": "standalone",
-    "minplayers": 3,
-    "maxplayers": 6,
-    "minplaytime": 90,
-    "maxplaytime": 90,
-    "year": "2007",
-    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
-    "age": "12+",
-    "best_players": "4,5",
-    "expansions": []
-  },
-  {
-    "name": "Munchkin Oz",
-    "itemtype": "standalone",
-    "minplayers": 3,
-    "maxplayers": 6,
-    "minplaytime": 60,
-    "maxplaytime": 120,
-    "year": "2015",
-    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
-    "age": "8+",
-    "best_players": "4,5",
-    "expansions": []
-  },
-  {
-    "name": "Munchkin Quest",
-    "itemtype": "standalone",
-    "minplayers": 2,
-    "maxplayers": 4,
-    "minplaytime": 180,
-    "maxplaytime": 180,
-    "year": "2010",
-    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
-    "age": "12+",
-    "best_players": "4",
-    "expansions": []
-  },
-  {
-    "name": "Munchkin Zombi",
-    "itemtype": "standalone",
-    "minplayers": 3,
-    "maxplayers": 6,
-    "minplaytime": 90,
-    "maxplaytime": 90,
-    "year": "2011",
-    "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
-    "age": "10+",
-    "best_players": "4",
-    "expansions": []
   },
   {
     "name": "My Shelfie",
@@ -712,6 +1083,11 @@ const gamesData = [
     "language_dependence": "No necessary in-game text",
     "age": "8+",
     "best_players": "2",
+    "image_url": "https://cf.geekdo-images.com/Sgg2B7kxtx8fFXz_2mPefA__original/img/jsk3siEopnfG9xWYGwvHyZOcqgQ=/0x0/filters:format(png)/pic7193695.png",
+    "thumbnail_url": "https://cf.geekdo-images.com/Sgg2B7kxtx8fFXz_2mPefA__small/img/LxzvxmsMMitAzuv2nP3m0ko2Cus=/fit-in/200x150/filters:strip_icc()/pic7193695.png",
+    "description": "You&rsquo;ve just taken home your new bookshelf and now it&rsquo;s time to put your favorite items in the display: books, boardgames, portraits... Who will show the best organized shelfie?\n\nDuring your turn, you must take 1, 2, or 3 item tiles from the living room board (shared by all the players), following these rules:\n\n&bull;        The tiles you take must be adjacent to each other and form a straight line.\n&bull;        All the tiles you take must have at least one side free at the beginning of your turn.\n\nThen, you must place all the tiles you&rsquo;ve picked into 1 column of your bookshelf (a 3D display) to meet the personal goal cards, which grant points if you match the highlighted spaces with the corresponding item tiles,&nbsp;or the common goal cards, which grant points if you achieve the illustrated pattern. You also score points if you connect item tiles of the same type.\n\nThe first player who fills all the spaces of their bookshelf triggers the end game and takes the end game token that grants additional points. The game continues until the end of the turn of the player sitting on the right of the player holding the first player token.\n\nThe player who scores the most points wins the game.\n\nA game of strategy and glance, different every time thanks to the variety of common and personal goals. The beautiful images of the item tiles will really give you the feeling of tidying up your precious shelf.\n\n-description from designer",
+    "categories": "Abstract Strategy",
+    "mechanics": "End Game Bonuses, Pattern Building, Set Collection",
     "expansions": []
   },
   {
@@ -725,6 +1101,11 @@ const gamesData = [
     "language_dependence": "No necessary in-game text",
     "age": "8+",
     "best_players": "5,6",
+    "image_url": "https://cf.geekdo-images.com/1nQ3ZKudtDeAP7IiKE-kNg__original/img/6igmXolQesapNU9yEnexip6m9B8=/0x0/filters:format(jpeg)/pic8625343.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/1nQ3ZKudtDeAP7IiKE-kNg__small/img/sW38512N2r1ZuuPE2TUD2LNfoxM=/fit-in/200x150/filters:strip_icc()/pic8625343.jpg",
+    "description": "In the 1920s, Mr. MacDowell, a gifted astrologer, immediately detected a supernatural being upon entering his new house in Scotland. He gathered eminent mediums of his time for an extraordinary s&eacute;ance, and they have seven hours to make contact with the ghost and investigate any clues that it can provide to unlock an old mystery.\n\nUnable to talk, the amnesiac ghost communicates with the mediums through visions, which are represented in the game by illustrated cards. The mediums must decipher the images to help the ghost remember how he was murdered: Who did the crime? Where did it take place? Which weapon caused the death? The more the mediums cooperate and guess well, the easier it is to catch the right culprit.\n\nIn Mysterium, a reworking of the game system present in Tajemnicze Domostwo, one player takes the role of ghost while everyone else represents a medium. To solve the crime, the ghost must first recall (with the aid of the mediums) all of the suspects present on the night of the murder. A number of suspect, location and murder weapon cards are placed on the table, and the ghost randomly assigns one of each of these in secret to a medium.\n\nEach hour (i.e., game turn), the ghost hands one or more vision cards face up to each medium, refilling their hand to seven each time they share vision cards. These vision cards present dreamlike images to the mediums, with each medium first needing to deduce which suspect corresponds to the vision cards received. Once the ghost has handed cards to the final medium, they start a two-minute sandtimer. Once a medium has placed their token on a suspect, they may also place clairvoyancy tokens on the guesses made by other mediums to show whether they agree or disagree with those guesses.\n\nAfter time runs out, the ghost reveals to each medium whether the guesses were correct or not. Mediums who guessed correctly move on to guess the location of the crime (and then the murder weapon), while those who didn't keep their vision cards and receive new ones next hour corresponding to the same suspect. Once a medium has correctly guessed the suspect, location and weapon, they move their token to the epilogue board and receive one clairvoyancy point for each hour remaining on the clock. They can still use their remaining clairvoyancy tokens to score additional points.\n\nIf one or more mediums fail to identify their proper suspect, location and weapon before the end of the seventh hour, then the ghost has failed and dissipates, leaving the mystery unsolved. If, however, they have all succeeded, then the ghost has recovered enough of its memory to identify the culprit.\n\nMediums then group their suspect, location and weapon cards on the table and place a number by each group. The ghost then selects one group, places the matching culprit number face down on the epilogue board, picks three vision cards &mdash; one for the suspect, one for the location, and one for the weapon &mdash; then shuffles these cards. Players who have achieved few clairvoyancy points flip over one vision card at random, then secretly vote on which suspect they think is guilty; players with more points then flip over a second vision card and vote; then those with the most points see the final card and vote.\n\nIf a majority of the mediums have identified the proper suspect, with ties being broken by the vote of the most clairvoyant medium, then the killer has been identified and the ghost can now rest peacefully. If not, well, perhaps you can try again...",
+    "categories": "Deduction, Murder / Mystery, Party Game, Real-time",
+    "mechanics": "Communication Limits, Cooperative Game, Deduction, Finale Ending, Hand Management, Pattern Recognition, Real-Time, Storytelling, Voting",
     "expansions": [
       {
         "name": "Mysterium: Segni Nascosti",
@@ -736,7 +1117,12 @@ const gamesData = [
         "year": "2019",
         "language_dependence": "No necessary in-game text",
         "age": "8+",
-        "best_players": "5,6,7"
+        "best_players": "5,6,7",
+        "image_url": "https://cf.geekdo-images.com/Zexoc5pzO8DU3WiNBu1Xkw__original/img/OMuB2n1iOOEJ0QZYAvGFxoDWz2Q=/0x0/filters:format(png)/pic8669609.png",
+        "thumbnail_url": "https://cf.geekdo-images.com/Zexoc5pzO8DU3WiNBu1Xkw__small/img/RCMPa1upDe5AOA5qybFRD3L2g8s=/fit-in/200x150/filters:strip_icc()/pic8669609.png",
+        "description": "Description from the publisher:\n\nThey thought the secret of Warwick mansion had been solved and the spirit had found peace, but now new signs have emerged that were previously hidden. New suspects, places, and objects that do not fit into the picture &mdash; and the presence of the ghost is strong once again.\n\nIn Mysterium: Hidden Signs, the spiritualists must return to the old mansion and investigate these disturbing visions. Will they understand all the instructions this time and give the ghost its final rest?",
+        "categories": "Expansion for Base-game, Deduction, Murder / Mystery",
+        "mechanics": "Acting, Cooperative Game, Hand Management, Pattern Recognition"
       },
       {
         "name": "Mysterium: Segreti e Bugie",
@@ -748,7 +1134,12 @@ const gamesData = [
         "year": "2019",
         "language_dependence": "No necessary in-game text",
         "age": "10+",
-        "best_players": "4,5"
+        "best_players": "4,5",
+        "image_url": "https://cf.geekdo-images.com/bLZim1WunrYXWzRy-KZsCQ__original/img/BQyp0hcIRg1iWcx1PqUMYhPWSzU=/0x0/filters:format(png)/pic8669610.png",
+        "thumbnail_url": "https://cf.geekdo-images.com/bLZim1WunrYXWzRy-KZsCQ__small/img/fDOojNhQeWUXhi3wRPkLrA7udOw=/fit-in/200x150/filters:strip_icc()/pic8669610.png",
+        "description": "Mysterium: Secrets & Lies consists of six new characters, six new locations, six new items, and 18 story cards. This latter group of cards can replace the object cards in the game, with each card representing one way in which the ghost died. Now instead of trying to get each investigator to identify an object &mdash; a singular item that wouldn't have much nuance to it &mdash; the ghost must instead use the dream cards to convey the story of their demise, something far more challenging.",
+        "categories": "Deduction, Expansion for Base-game, Murder / Mystery",
+        "mechanics": "Acting, Cooperative Game, Hand Management, Pattern Recognition, Voting"
       }
     ]
   },
@@ -763,19 +1154,11 @@ const gamesData = [
     "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "age": "10+",
     "best_players": "2",
-    "expansions": []
-  },
-  {
-    "name": "The Others",
-    "itemtype": "standalone",
-    "minplayers": 2,
-    "maxplayers": 5,
-    "minplaytime": 90,
-    "maxplaytime": 90,
-    "year": "2016",
-    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
-    "age": "12+",
-    "best_players": "5",
+    "image_url": "https://cf.geekdo-images.com/gM6vqdA-Fa0LSUP1V4fvTg__original/img/sVkqbARlZtJhupdV2Fqp3l2Vwuk=/0x0/filters:format(png)/pic6926575.png",
+    "thumbnail_url": "https://cf.geekdo-images.com/gM6vqdA-Fa0LSUP1V4fvTg__small/img/USxfm66Q4VqPHDNS8Ih4auX5xOU=/fit-in/200x150/filters:strip_icc()/pic6926575.png",
+    "description": "PureArts and Ubisoft present the officially licensed Orlog Dice Game of Assassin&rsquo;s Creed Valhalla!  Played extensively by the Norsemen and Anglo-Saxons in every city of the video game, Orlog is played by two players who use dice rolls and bonus effects to claim victory over their opponent.\n\nPlayers roll dice to generate attacks and acquire tokens for God favors - using a combination of both during attacks and for regaining health. Players cast their dice 3 times a round until resolution. Play continues until one player has lost all Health stones.\n\nWill you earn the favor of the Gods and receive their blessings to win? There&rsquo;s only one way to find out.",
+    "categories": "Dice, Video Game Theme",
+    "mechanics": "Action Points, Advantage Token, Dice Rolling, Die Icon Resolution, Re-rolling and Locking",
     "expansions": []
   },
   {
@@ -789,6 +1172,11 @@ const gamesData = [
     "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "age": "12+",
     "best_players": "4",
+    "image_url": "https://cf.geekdo-images.com/-Qer2BBPG7qGGDu6KcVDIw__original/img/PlzAH7swN1nsFxOXbfUvE3TkE5w=/0x0/filters:format(png)/pic2452831.png",
+    "thumbnail_url": "https://cf.geekdo-images.com/-Qer2BBPG7qGGDu6KcVDIw__small/img/NQQcjS31TO0DE246N9rpt0hd9eo=/fit-in/200x150/filters:strip_icc()/pic2452831.png",
+    "description": "Pandemic Legacy is a co-operative campaign game, with an overarching story arc played through 12-24 sessions, depending on how well your group does at the game. At the beginning, the game starts in a very similar fashion as basic Pandemic, in which your team of disease-fighting specialists races against the clock to travel around the world, treating disease hot spots while researching cures for each of four plagues before they get out of hand.\n\nDuring a player's turn, they have four actions available, with which they may travel around in the world in various ways (sometimes needing to discard a card), build structures like research stations, treat diseases (removing one cube from the board; if all cubes of a color have been removed, the disease has been eradicated), trade cards with other players, or find a cure for a disease (requiring five cards of the same color to be discarded while at a research station). Each player has a unique role with special abilities to help them at these actions.\n\nAfter a player has taken their actions, they draw two cards. These cards can include epidemic cards, which will place new disease cubes on the board, and can lead to an outbreak, spreading disease cubes even further. Outbreaks additionally increase the panic level of a city, making that city more expensive to travel to.\n\nEach month in the game, you have two chances to achieve that month's objectives. If you succeed, you win and immediately move on to the next month. If you fail, you have a second chance, with more funding for beneficial event cards.\n\nDuring the campaign, new rules and components will be introduced. These will sometimes require you to permanently alter the components of the game; this includes writing on cards, ripping up cards, and placing permanent stickers on components. Your characters can gain new skills, or detrimental effects. A character can even be lost entirely, at which point it's no longer available for play.\n\nPart of the Pandemic series",
+    "categories": "Environmental, Medical",
+    "mechanics": "Action Points, Cooperative Game, Hand Management, Legacy Game, Multi-Use Cards, Point to Point Movement, Scenario / Mission / Campaign Game, Set Collection, Tags, Trading, Variable Player Powers",
     "expansions": []
   },
   {
@@ -802,6 +1190,11 @@ const gamesData = [
     "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "age": "12+",
     "best_players": "4",
+    "image_url": "https://cf.geekdo-images.com/Qtkb-UTvHa0-kxt_MK1nKw__original/img/wJiRr7lBmWSKcRS3lPpvKIPMgQQ=/0x0/filters:format(jpeg)/pic3763549.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/Qtkb-UTvHa0-kxt_MK1nKw__small/img/MfKsnJUTx9IQV-o12Fahxx5IaDQ=/fit-in/200x150/filters:strip_icc()/pic3763549.jpg",
+    "description": "Description from the publisher:\n\nThe world almost ended 71 years ago...\n\nThe plague came out of nowhere and ravaged the world. Most died within a week. Nothing could stop it. The world did its best. It wasn't good enough.\n\nFor three generations, we, the last fragments of humanity have lived on the seas, on floating stations called \"havens.\" Far from the plague, we are able to provide supplies to the mainland to keep them (and us) from succumbing completely.\n\nWe've managed to keep a network of the largest known cities in the world alive. Things have been tough the past few years. Cities far away from the havens have fallen off our grid...\n\nTomorrow, a small group of us head out into what's left of the world. We don't know what we'll find.\n\nPandemic Legacy: Season 2 is an epic cooperative game for 2 to 4 players. Unlike most other games, this one is working against you. What's more, some of the actions you take in Pandemic Legacy will carry over to future games. No two worlds will ever be alike!\n\nPart of the Pandemic series.",
+    "categories": "Environmental, Exploration, Medical, Science Fiction",
+    "mechanics": "Action Points, Cooperative Game, Hand Management, Legacy Game, Pick-up and Deliver, Point to Point Movement, Scenario / Mission / Campaign Game, Set Collection, Tags, Trading, Variable Player Powers",
     "expansions": []
   },
   {
@@ -815,6 +1208,11 @@ const gamesData = [
     "language_dependence": "",
     "age": "18",
     "best_players": "",
+    "image_url": "https://cf.geekdo-images.com/RUWwFKJCcCR-kJIP1ZNkxg__original/img/e8ewF6S0ZM1drtmulQn7r9fOcpo=/0x0/filters:format(jpeg)/pic6630081.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/RUWwFKJCcCR-kJIP1ZNkxg__small/img/KRbzQmguw4HT0MqGCDKHIISDBkA=/fit-in/200x150/filters:strip_icc()/pic6630081.jpg",
+    "description": "It's an Italian board game about drugs. Mechanics are like Monopoly, but the curious thing is the topic... Players are dope dealers trying to buy and sell all kinds of drugs and at the same time they have to avoid police.\n\nThis board game is set in an underground fantasy world. It concerns the buying and selling of so-called \"soft\" narcotic substances. The aim is to be able to pass the \"go\" with 2 \"Charas\" pawns, in a complex circular path by amusing vicissitudes and it won't be easy because, in addition to the other players who have the same objective, they will have to deal with the Police who monitor the game path.",
+    "categories": "Economic, Mafia, Mature / Adult",
+    "mechanics": "Dice Rolling, Roll / Spin and Move, Trading",
     "expansions": []
   },
   {
@@ -828,6 +1226,11 @@ const gamesData = [
     "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "age": "10+",
     "best_players": "4",
+    "image_url": "https://cf.geekdo-images.com/Bgle3gjd2wTrD31ps_z92w__original/img/VWKSSnMFxzSIdQ7W6hrdw_VCKmI=/0x0/filters:format(jpeg)/pic1727619.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/Bgle3gjd2wTrD31ps_z92w__small/img/bjSkZpezCxJBqtucXslJAX2laKA=/fit-in/200x150/filters:strip_icc()/pic1727619.jpg",
+    "description": "Send out the scouts! Position the Flagship in tactical orbit! And reconfigure that Battlestation into something new! Your fleet of loyal ships, powered by the might of quantum  probability itself, carries your empire to the far-flung stars. How will history remember you? As a ravenous destroyer? A clever tactician? A dauntless explorer? Command your armada, construct world-shattering technologies, and rally the remnants of humanity for a final confrontation.\n\nIn Quantum, each player is a fleet commander from one of the four factions of humanity, struggling to conquer a sector of space. Every die is a starship, with the value of the die determining the movement of the ship, but also its combat power - with low numbers more powerful. So a [ 6 ] is a quick but fragile Scout and a [ 1 ] is a slow but mighty Battlestation.\n\nEach type of ship also has a special power that can be used once per turn: Destroyers can warp space to swap places with other dice and Flagships can transport other ships. These powers can be used in combination for devastating effects. You're not stuck with your starting ships, however: using Quantum technology, you can spend actions to transform (re-roll) your ships. Randomness plays a role in the game, but only when you want: Quantum is very much a strategy game.\n\nYou win by constructing Quantum Cubes - massive planetary energy extractors. Each time you build a new one, you can expand your fleet, earn a new permanent ability, or take a one-time special move. The board itself is made out of modular tiles, and you can play on one of the 30 layouts that come with the game or design your own. The ship powers, player abilities, and board designs combine to create a limitless set of possibilities for how to play and strategies for how to win.\n\nWith elegant mechanics, an infinity of scenarios, and easy-to-learn rules that lead to deep gameplay, Quantum is a one-of-a-kind game of space combat, strategy and colonization that will satisfy both hard-core and casual players.\n\nQuantum won the 2012 Game Design Award at the IndieCade Festival of Independent Games, as a prototype game with the title Armada d6.",
+    "categories": "Dice, Fighting, Science Fiction, Space Exploration",
+    "mechanics": "Area Majority / Influence, Dice Rolling, Grid Movement, Modular Board, Square Grid",
     "expansions": []
   },
   {
@@ -841,6 +1244,11 @@ const gamesData = [
     "language_dependence": "No necessary in-game text",
     "age": "8+",
     "best_players": "2",
+    "image_url": "https://cf.geekdo-images.com/e7eP58UJVDA1wC5pWjCPqg__original/img/dzB-D9RT7RUE_nTCZ8qVyAFB5Sw=/0x0/filters:format(jpeg)/pic3488229.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/e7eP58UJVDA1wC5pWjCPqg__small/img/cC_DGL1tsiIpjuR_IXnQzqSBeAI=/fit-in/200x150/filters:strip_icc()/pic3488229.jpg",
+    "description": "Quarto has a 4&times;4 board and 16 pieces. Each piece has four dichotomous attributes &mdash; color, height, shape, and consistency &mdash; so each piece is either black or white, tall or short, square or round, and hollow or solid. The object is to place the fourth piece in a row in which all four pieces have at least one attribute in common. The twist is that your opponent gets to choose the piece you place on the board each turn.\n\nA winner of the 1985 Concours International de Créateurs de Jeux de Société.",
+    "categories": "Abstract Strategy, Children's Game",
+    "mechanics": "Open Drafting, Pattern Building, Pattern Recognition, Square Grid",
     "expansions": []
   },
   {
@@ -854,10 +1262,15 @@ const gamesData = [
     "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "age": "10+",
     "best_players": "4,5,6",
+    "image_url": "https://cf.geekdo-images.com/FhJHH2hxyCWVe-22KB5zTQ__original/img/QolPNjnzVPtdZH7SLfP15jA8N_o=/0x0/filters:format(jpeg)/pic5669315.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/FhJHH2hxyCWVe-22KB5zTQ__small/img/2w43M_j9NcpmvRf4Ps8FlsrJn9E=/fit-in/200x150/filters:strip_icc()/pic5669315.jpg",
+    "description": "RisiKo! is in Italy synonymous with Strategy! It is unquestionably the cult game that gathers thousands of fans, now renewed in a more compact format and with modern and captivating graphics. But not only: TIME ATTACK! the new game variant that players can choose to set the duration of the game at one hour, speeds up some game phases.\n\n&mdash;description from the publisher (translated)\n\nIn Italia RisiKo! &egrave; sinonimo di Strategia! E&rsquo; indiscussamente il gioco culto che raccoglie migliaia di appassionati, oggi rinnovato in un formato pi&ugrave; compatto e con una moderna ed accattivante veste grafica. Ma non solo: TIME ATTACK! la nuova variante di gioco che i giocatori possono scegliere di adottare per fissare la durata della partita ad un&rsquo;ora, velocizza alcune fasi di gioco.\n\n&mdash;description from the publisher\n\nIn essence a Risk clone, the game introduced several modifications such as, among others, players getting a card at the beginning of their turn and a border between Middle East and China, non of these present in Risk. Moreover with the release of futuRisiKo! by Spartaco Albertarelli in 1992 (and several additional releases to this date), this game started a family in its own right.\n\n&mdash;user summary",
+    "categories": "Territory Building, Wargame",
+    "mechanics": "Area Majority / Influence, Area Movement, Area-Impulse, Dice Rolling, Player Elimination, Set Collection",
     "expansions": []
   },
   {
-    "name": "Risiko!: Batman \u2013 La Caduta Di Gotham City",
+    "name": "Risiko!: Batman – La Caduta Di Gotham City",
     "itemtype": "standalone",
     "minplayers": 3,
     "maxplayers": 4,
@@ -867,6 +1280,11 @@ const gamesData = [
     "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "age": "",
     "best_players": "",
+    "image_url": "https://cf.geekdo-images.com/wEogwq24cgI6YDwjMlUA-Q__original/img/QX6AokRHPR5w9L6qXfmemNJKSpg=/0x0/filters:format(png)/pic6837315.png",
+    "thumbnail_url": "https://cf.geekdo-images.com/wEogwq24cgI6YDwjMlUA-Q__small/img/uEvZxcNq7Veo4PSgge3t9F0un9o=/fit-in/200x150/filters:strip_icc()/pic6837315.png",
+    "description": "RisiKo! The most loved strategy game in a special edition set in the DC world! As one of Gotham City's Super-Villains you will descend on the city to conquer it! Strategically strengthen your armies on the districts of the city under your control, attack the neighboring districts to expand your dominion. Try to reach your goal and defeat your opponents to remain the only ones left on the board and win!\n\nIn this game we find ourselves playing the opponents of the superhero. The title includes up to a maximum of four players, who can however choose from the most iconic villains of Gotham City: Bane, Joker, Catwoman, Mr. Freeze, The Riddler and Harley Quinn.\n\nThis is a first new element compared to the classic version of RisiKo! In fact, each villain will have a Criminal Plan to carry out, developed in different missions (such as taking control of specific territories or making certain results with the dice). Achieving a certain number of objectives will activate the character's special powers, giving the player various advantages during the rest of the game.\n\nClearly while the villains compete for the districts of Gotham City (following the traditional RisiKo! dice-rolling mechanic!) Our hero is not standing idle. When five 1's are rolled during a turn, Batman goes into action, clearing one or more territories on the board and wreaking havoc in the fight for control of the metropolis. Especially in the initial stages it will not be easy to watch, but it will always be a great emotion to swoop into our opponents. It will be less pleasant when it's our turn to face the Dark Knight, but that's part of the challenge too.\n\nIn addition to conquering all of Gotham, you can take home the game by completing one of three objectives, common to all participants. However, every time a criminal empire is definitively defeated, the player who accomplished the feat can choose to eliminate one of the conditions.\n\n\nRisiKo! Il Gioco di strategia pi&ugrave; amato in una edizione speciale ambientata nel mondo DC! Nei panni di uno dei Supercriminali di Gotham City scenderete in citt&agrave; per conquistarla! Rinforzate strategicamente le vostre armate sui distretti della citt&agrave; sotto il vostro controllo, attaccate i distretti confinanti per ampliare il vostro dominio. Cercate di raggiungere il vostro obiettivo e sconfiggete i vostri avversari per restare gli unici rimasti sulla plancia e vincere!",
+    "categories": "Abstract Strategy, Comic Book / Strip, Movies / TV / Radio theme, Wargame",
+    "mechanics": "Area Majority / Influence, Dice Rolling, Worker Placement",
     "expansions": []
   },
   {
@@ -880,10 +1298,15 @@ const gamesData = [
     "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "age": "14+",
     "best_players": "4,5",
+    "image_url": "https://cf.geekdo-images.com/iwevA6XmiNLHn1QnGUucqw__original/img/pKJ1XyLN4hvHim5eRj2VJHijv1E=/0x0/filters:format(jpeg)/pic3880340.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/iwevA6XmiNLHn1QnGUucqw__small/img/UNKv6MWzJUAwhhP7-ng6HoinRa8=/fit-in/200x150/filters:strip_icc()/pic3880340.jpg",
+    "description": "The great and forgotten Kami have returned from the underworld, displeased with the affairs of the Empire&rsquo;s present Shōgun. At the start of spring in the Great New Year, the Kami have gathered their sacred clans with one quest: reclaim the lands of Nippon and return them to their honorable, spiritual traditions. However, each clan is bound by their own proud traditions to a unique vision for this great return and must wage a powerful diplomatic war across eight provinces. Alliances must be forged, betrayal is inevitable, honorable standing rises and falls. Political mandates must be navigated and devastating war must be fought, each won by expert skill and cunning negotiation. And only one may stand victorious at the coming of winter. You, honorable Shōgun, lead one of these great clans. Do you have the strength of honor, virtue, and spirit, as well as the mastery of steel necessary to deliver on this ancient promise?\n\nRising  Sun is a board game for 3 to 5 players set in legendary feudal Japan. Each player chooses a Clan and competes to lead theirs to victory by accumulating Victory Points over the course of the Seasons. Each Clan possesses a unique ability and differs in Seasonal Income, Starting Honor Rank, and Home Province.\nOver the course of the game, players will forge and break alliances, choose political actions, worship the gods, customize their clans, and position their figures around Japan. In the process, Honor is a palpable element in Rising Sun: Having high Honor gives several advantages, while having low Honor may grant the allegiance of the darker elements of the world. But above all, Honor settles all disputes: Whenever there is a tie, the tied player with the highest Honor wins.\n\nIn Rising  Sun, players are encouraged to use diplomacy, negotiation, and even bribery to further their cause. Players can make deals at any point in the game but no deals are truly binding.\nVictory Points can be gained in several ways, from winning battles, to harvesting the right provinces, to playing to the Virtues accumulated by your Clan.\n\nThe game is played over the course of 4 rounds or Seasons: Spring, Summer, and then Autumn; when  Winter  comes,  the  game  draws to a close and players calculate bonuses to decide who is the winner. \nEach Season is divided into five phases: \n1) Seasonal Setup because every Season has a certain Season deck with different cards, \n2) Tea Ceremony in which players sit down and negotiate their Alliances for the Season, \n3) Political Phase during which players will select Political Mandates to prepare their Clans and position their forces,\n4) War Phase, during which players battle over several Provinces, and \n5) Seasonal Cleanup.\n\nAs already mentioned, the start of the Winter Season signifies the end of the game. Peace falls over the land as it gets covered in white snow, and a new Emperor will rise under the power of the great Kami.",
+    "categories": "Bluffing, Fantasy, Mythology, Negotiation, Wargame",
+    "mechanics": "Action Drafting, Alliances, Area Majority / Influence, Area Movement, Auction: Sealed Bid, Betting and Bluffing, Closed Drafting, End Game Bonuses, Follow, Force Commitment, Negotiation, Set Collection, Simultaneous Action Selection, Take That, Variable Phase Order, Variable Player Powers, Variable Set-up",
     "expansions": []
   },
   {
-    "name": "Saint Seiya: I Cavalieri dello Zodiaco \u2013 Deckbuilding",
+    "name": "Saint Seiya: I Cavalieri dello Zodiaco – Deckbuilding",
     "itemtype": "standalone",
     "minplayers": 2,
     "maxplayers": 5,
@@ -893,6 +1316,11 @@ const gamesData = [
     "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "age": "8+",
     "best_players": "3",
+    "image_url": "https://cf.geekdo-images.com/1En42rnpKD7kvor7zDafyA__original/img/UtnSCEQuxCT-H3hAR-dn4h4eG5E=/0x0/filters:format(png)/pic4303079.png",
+    "thumbnail_url": "https://cf.geekdo-images.com/1En42rnpKD7kvor7zDafyA__small/img/mkZsLKzIZDmzV94bjLVuIE2ZaiM=/fit-in/200x150/filters:strip_icc()/pic4303079.png",
+    "description": "Athena is threatened by the great Pope, and the Knights subjected to his power are ready to fight!\n\n5 Bronze Knights: Seiya, Shiryū, Hyōga, Shun, and Ikki must end this threat before the extinction of the last flame of the Clock.\n\nDuring the game, players each play one of the five available Heroes. They will have to face the other Knights they will face or rally to their cause.\n\nPlay as one of the bronze knights and build your deck as you fight or rally other knights to your cause. Use the various effects of the cards to possess the most powerful knights and have the best team at the end of the game, when the 12 flames of the clock will be extinguished. The player with the most victory point when all the flammes are switched off is the winner.",
+    "categories": "Card Game, Comic Book / Strip, Mythology, Video Game Theme",
+    "mechanics": "Deck, Bag, and Pool Building, Delayed Purchase, Hand Management, Take That, Variable Player Powers, Variable Set-up",
     "expansions": []
   },
   {
@@ -906,6 +1334,11 @@ const gamesData = [
     "language_dependence": "Unplayable in another language",
     "age": "10+",
     "best_players": "2",
+    "image_url": "https://cf.geekdo-images.com/mVmmntn2oQd0PfFrWBvwIQ__original/img/11jrKPiOVTNl5NwX83KGtTZEq40=/0x0/filters:format(jpeg)/pic404651.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/mVmmntn2oQd0PfFrWBvwIQ__small/img/RUmuGCB40FQH0en0R2nrcsSO7DE=/fit-in/200x150/filters:strip_icc()/pic404651.jpg",
+    "description": "In this classic word game, players use their seven drawn letter-tiles to form words on the gameboard. Each word laid out earns points based on the commonality of the letters used, with certain board spaces giving bonuses.  But a word can only be played if it uses at least one already-played tile or adds to an already-played word.  This leads to slightly tactical play, as potential words are rejected because they would give an opponent too much access to the better bonus spaces.\n\nSkip-a-cross was licensed by Selchow & Righter and manufactured by Cadaco. Both games have identical rules but Skip-a-cross has tiles and racks made of cardboard instead of wood. The game was also published because not enough Scrabble games were manufactured to meet the demand.",
+    "categories": "Word Game",
+    "mechanics": "End Game Bonuses, Hand Management, Spelling, Square Grid, Tile Placement",
     "expansions": []
   },
   {
@@ -919,32 +1352,11 @@ const gamesData = [
     "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "age": "10+",
     "best_players": "6,8",
-    "expansions": []
-  },
-  {
-    "name": "Il Signore degli Anelli: Duel for Middle-earth",
-    "itemtype": "standalone",
-    "minplayers": 2,
-    "maxplayers": 2,
-    "minplaytime": 30,
-    "maxplaytime": 30,
-    "year": "2024",
-    "language_dependence": "No necessary in-game text",
-    "age": "10+",
-    "best_players": "2",
-    "expansions": []
-  },
-  {
-    "name": "Star Munchkin",
-    "itemtype": "standalone",
-    "minplayers": 3,
-    "maxplayers": 6,
-    "minplaytime": 90,
-    "maxplaytime": 90,
-    "year": "2008",
-    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
-    "age": "12+",
-    "best_players": "4",
+    "image_url": "https://cf.geekdo-images.com/Pj88WjFufvU_Lifj6cquzw__original/img/P8tLrm5juwEMPCFcwiXrCuCKIaI=/0x0/filters:format(jpeg)/pic1213979.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/Pj88WjFufvU_Lifj6cquzw__small/img/7oe0n20ijyQcqvIENI4ehUotZ6o=/fit-in/200x150/filters:strip_icc()/pic1213979.jpg",
+    "description": "Aye, Dark Overlord! The Red Box is a fantasy party game filled with humor. It is fast to play and easy to learn.\n\nEach player is an evil goblin servant of the evil Dark Overlord (Rigor Mortis, the Master of all Evils), and all of them are gathered at the Dark Overlord's knees to explain why they brought that last important mission, ordered by 'His evil Excellence' himself, to failure again. Panic wraps you in its freezing grip, what can you do to save your poor skin? Could you say you are not the one to blame, but your inept companions?\n\nYes of course, that's the solution! There is only one little problem: they've probably got exactly the same idea... and the Dark Overlord is not known for his mercy...\n\nThis roleplaying game is all about telling lies and shifting the blame on your poor fellow ones, so the righteous Wrath of your Master can give them what they deserve!\n\nThe expansion brings you new cards with places to explore, people to meet and treasures to retrieve. And that's not all... You, the goblins, will have new actions to make even more difficult your fellow party to escape the right Wrath of the Dark Overlord.",
+    "categories": "Card Game, Fantasy, Humor, Party Game",
+    "mechanics": "Acting, Role Playing, Single Loser Game, Storytelling",
     "expansions": []
   },
   {
@@ -958,6 +1370,29 @@ const gamesData = [
     "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "age": "6+",
     "best_players": "6",
+    "image_url": "https://cf.geekdo-images.com/9qbxsnp1CWpI6OUiV1cL2w__original/img/L_64t52CFZDFXOAgWeypRNu2SOY=/0x0/filters:format(jpeg)/pic4960288.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/9qbxsnp1CWpI6OUiV1cL2w__small/img/f9eYtnLr5ojiemZAefdT6qR10Xk=/fit-in/200x150/filters:strip_icc()/pic4960288.jpg",
+    "description": "From the creators of Exploding Kittens and Wolfgang Warsch (The Mind) comes a brand new family-friendly party game for people who are bad at charades\n\n     Perform ridiculous and hilarious actions at different intensities\n     Win points by matching your intensity with another player\n     Includes 139 cards and 58 tokens\n     5 minutes to learn, 15 minutes to play, 2 - 8 players\n\n\n&mdash;description from the publisher",
+    "categories": "Humor, Party Game",
+    "mechanics": "Acting",
+    "expansions": []
+  },
+  {
+    "name": "The Others",
+    "itemtype": "standalone",
+    "minplayers": 2,
+    "maxplayers": 5,
+    "minplaytime": 90,
+    "maxplaytime": 90,
+    "year": "2016",
+    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
+    "age": "12+",
+    "best_players": "5",
+    "image_url": "https://cf.geekdo-images.com/5VrDj4hKFp-jqyl8Fpwjjw__original/img/bLc9FSgvlDLpvSRuXut_6uQGE08=/0x0/filters:format(jpeg)/pic2642988.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/5VrDj4hKFp-jqyl8Fpwjjw__small/img/9CaYE5MphaFkBYcFHTkY1Z_JjoA=/fit-in/200x150/filters:strip_icc()/pic2642988.jpg",
+    "description": "In The Others, the world stands on the brink of apocalypse, as the fanatics of the Hell Club have summoned the 7 Deadly Sins to lay waste to our reality. Slowly the Others have creeped into our lives, corrupting society from within. The city of Haven is the key to their invasion, but it will not go down without a fight, thanks to the actions of the paranormal organization known as F.A.I.T.H. (Federal Authority for the Interdiction of Transdimensional Horrors). Each session of The Others is played with one player controlling the forces of a single Sin, against the other players who control a team of 7 FAITH heroes. The heroes cooperate to survive the Sin's attacks and accomplish the missions set before them, while the Sin attempts to thwart the heroes in all ways (preferably by destroying them).\n\nThe heroes are divided into different classes, each specialized in a different aspect of the game. Leaders are good at helping the other members of the team. Bruisers are excellent melee fighters. Snipers are experts at using guns to put down monsters from a distance. And Fixers have the resourcefulness and knowledge of the occult necessary to resolve supernatural crises that spread through the city. Each hero also has their own stats and unique abilities that set them apart from all others. Knowing when to bring in the right reinforcement can be key to FAITH&rsquo;s victory.\n\nCorruption is one of the main mechanics of the game. It is both a way for the Sin to consume heroes, and a way for heroes to accomplish amazing feats they wouldn&rsquo;t be capable of normally. Taking corruption grants heroes powerful bonuses (as long as they keep taking corruption), but when they become fully corrupted, their darkest secrets may come back to haunt them and tear the team from within, or their flesh might simply succumb to the sinful influences.\n\nThe Sins player, on the other hand, has access to the different monsters of each Sin, including Abominations, a Controller, and the terrifying Avatar of Sin! These monsters can attempt to destroy the heroes, or simply hinder their progress on their missions. Each Sin provides the Sins Player with a different deck of Sins cards that can be played at different times to surprise players with different effects, often tied to the strategy of each Sin. Yes, because each Sin taints the game with an overarching mechanic that is always in effect. For example, Pride punishes prideful heroes that venture into the streets on their own, while Sloth punishes heroes who try to move quickly across the board. Heroes will need to learn to deal with the different influence of each Sin, which will always stand between them and their mission.\n\nThe Sins are also aided by Acolytes, with each session using a different type. These lowly corrupted servants of darkness can fight and stand in the way of heroes, but they also have a once per round special ability that reflects their previous lives. For example, corrupted hobos take equipment from heroes, corrupted nuns corrupt the city districts, and corrupted doctors keep heroes from healing.\n\nThere are 7 different stories that players can embark on for each session of The Others. Each of them brings different special rules, different dynamics, and a unique system of branching missions the heroes need to accomplish in order to be victorious. There are Terror stories, which are more straightforward, focusing on action and combat; Corruption stories revolve around the Corruption spreading through the city and the heroes themselves; and Redemption stories rely on saving the city and the few innocents that remain. Each story can be played on a different map setup, which further makes the dynamic of each session unique.\n\nThe board used in The Others is made up of several tiles, each depicting a different city district and different configurations of streets. As the city of Haven still belongs to humanity, and it&rsquo;s the Sins that are attempting to take it over, the heroes can use it to get different benefits each district offers them. For example, they can go to the hospital to heal wounds, to the museum to get rid of corruption, to the RavenCorp tower to get new equipment, or to the police station to call in an orbital strike. What districts are available on each map, and their location, can greatly change the dynamic of the game.\n\nAs the game progresses, and depending on how badly the heroes fare against storyline plot twists and developments, the Apocalypse Track will advance, making the Sins gradually stronger and more terrifying. Apocalypse cards, tied to the type of story being played (Terror, Corruption, or Redemption) introduce new twists and challenges to the game, even bringing in the members of the Hell Club themselves!\n\nHeroes will die. Either in noble sacrifice, torn apart by claws and tentacles, or consumed by the corruption welling up in their souls. The question is whether the FAITH team will manage to fulfill their final mission in time, or whether the Sins will reign supreme over humanity.\n\n&mdash;description from the publisher",
+    "categories": "Fantasy, Fighting, Horror, Miniatures",
+    "mechanics": "Area Majority / Influence, Area Movement, Dice Rolling, Interrupts, Modular Board, Team-Based Game, Variable Player Powers",
     "expansions": []
   },
   {
@@ -971,19 +1406,11 @@ const gamesData = [
     "language_dependence": "No necessary in-game text",
     "age": "8+",
     "best_players": "4",
-    "expansions": []
-  },
-  {
-    "name": "Il Trauma del Tram",
-    "itemtype": "standalone",
-    "minplayers": 3,
-    "maxplayers": 13,
-    "minplaytime": 30,
-    "maxplaytime": 90,
-    "year": "2020",
-    "language_dependence": "Unplayable in another language",
-    "age": "16+",
-    "best_players": "5,7",
+    "image_url": "https://cf.geekdo-images.com/EQJZDO1Jq8KL-HxmWLwL-Q__original/img/LOC8D0q01ZRvZ6v1n7l8Zueos-E=/0x0/filters:format(jpeg)/pic9580918.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/EQJZDO1Jq8KL-HxmWLwL-Q__small/img/XE-BFNwHZ0NZVko1pCj3gdFaGxY=/fit-in/200x150/filters:strip_icc()/pic9580918.jpg",
+    "description": "Ticket to Ride: Europe takes you on a new train adventure across Europe. From Edinburgh to Constantinople and from Lisbon to Moscow, you'll visit great cities of turn-of-the-century Europe. Like the original Ticket to Ride, the game remains elegantly simple, can be learned in 5 minutes, and appeals to both families and experienced gamers. Ticket to Ride: Europe is a complete, new game and does not require the original version.\n\nMore than just a new map, Ticket to Ride: Europe features brand new gameplay elements. Tunnels may require you to pay extra cards to build on them, Ferries require locomotive cards in order to claim them, and Stations allow you to sacrifice a few points in order to use an opponent's route to connect yours. The game also includes larger format cards and Train Station game pieces.\n\nThe overall goal remains the same: collect and play train cards in order to place your pieces on the board, attempting to connect cities on your ticket cards. Points are earned both from placing trains and completing tickets but uncompleted tickets lose you points. The player who has the most points at the end of the game wins.\n\nCopyright 2002-2014 Days of Wonder, inc.\n\nPart of the Ticket to Ride series.",
+    "categories": "Trains",
+    "mechanics": "Connections, Contracts, End Game Bonuses, Hand Management, Network and Route Building, Open Drafting, Push Your Luck, Set Collection",
     "expansions": []
   },
   {
@@ -997,19 +1424,11 @@ const gamesData = [
     "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "age": "",
     "best_players": "3,4,5",
-    "expansions": []
-  },
-  {
-    "name": "Il Trono di Spade: Il Gioco da Tavolo Seconda Edizione",
-    "itemtype": "standalone",
-    "minplayers": 3,
-    "maxplayers": 6,
-    "minplaytime": 120,
-    "maxplaytime": 240,
-    "year": "2012",
-    "language_dependence": "Some necessary text - easily memorized or small crib sheet",
-    "age": "14+",
-    "best_players": "6",
+    "image_url": "https://cf.geekdo-images.com/fuBElJCPkSgj-bk_1rKoKw__original/img/_gQwLnrekjq4xpPJk_H9kS7cfwI=/0x0/filters:format(jpeg)/pic4767254.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/fuBElJCPkSgj-bk_1rKoKw__small/img/4zBpVufp-3vfs7L-X9lSPh-HDag=/fit-in/200x150/filters:strip_icc()/pic4767254.jpg",
+    "description": "Three-Dragon Ante: Legendary Edition is a re-imagining of the original classic Dungeons & Dragons Three Dragon Ante, a casual standalone card game of chance for two to six players. Each hand, players ante gold to the stakes and compete to play the strongest flight of three cards, dragons, or mortals. The strongest flight wins that gold from the stakes, but playing weaker cards triggers your cards' powers and sets you up to win the next hand. This Legendary Edition includes new Legendary Dragons, Mortals, Gold and Platinum Pieces, and Ability Disks for combining Three-Dragon Ante with the Dungeons & Dragons tabletop game!\n\nThe craftiest (and luckiest) player wins by taking the most gold!\n\n&mdash;description from the publisher",
+    "categories": "Animals, Card Game, Fantasy",
+    "mechanics": "Betting and Bluffing, Hand Management, Set Collection, Take That, Trick-taking",
     "expansions": []
   },
   {
@@ -1023,6 +1442,11 @@ const gamesData = [
     "language_dependence": "No necessary in-game text",
     "age": "5+",
     "best_players": "4,5,6",
+    "image_url": "https://cf.geekdo-images.com/-DHiHBBSnvaLu0Do8CIykQ__original/img/fRfoyWezpQsumExNKVxf1cwtJfg=/0x0/filters:format(jpeg)/pic8204165.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/-DHiHBBSnvaLu0Do8CIykQ__small/img/AUkAjClJAk3BX1vEpk7EasSh_44=/fit-in/200x150/filters:strip_icc()/pic8204165.jpg",
+    "description": "Players race to empty their hands and catch opposing players with cards left in theirs, which score points. In turns, players attempt to play a card by matching its color, number, or word to the topmost card on the discard pile. If unable to play, players draw a card from the draw pile, and if still unable to play, they pass their turn. Wild and special cards spice things up a bit.\n\nUNO is a commercial version of Crazy Eights, a public domain card game played with a standard deck of playing cards.\n\nThis entry includes all themed versions of UNO that do not include new cards.",
+    "categories": "Card Game, Children's Game, Comic Book / Strip, Movies / TV / Radio theme, Number",
+    "mechanics": "Hand Management, Lose a Turn, Matching, Take That",
     "expansions": []
   },
   {
@@ -1036,6 +1460,11 @@ const gamesData = [
     "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "age": "12+",
     "best_players": "4",
+    "image_url": "https://cf.geekdo-images.com/CeXtELC0X1xjwuend_7pTg__original/img/y-f2dDCvwurzjcgFPbkj00CbXN8=/0x0/filters:format(jpeg)/pic2962290.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/CeXtELC0X1xjwuend_7pTg__small/img/FdE8SHtb503f9ZOk_TYyxS-sJQg=/fit-in/200x150/filters:strip_icc()/pic2962290.jpg",
+    "description": "The dragon has been asleep for many long years. In that time, the cave under which it slumbered has changed greatly&hellip;Goblins and strange monsters have filled its gloomy depths and there are whispers that the cave itself has begun thinking, shifting, and growing evermore dangerous.\n\nStill, stories of peril rarely overshadow the rumors of riches. And riches there may be&hellip; For where a dragon slumbers, there also lies a fiercely guarded treasure. Fortunately for the slumbering beast, malevolent crystals fill the cave&rsquo;s rooms with spectral light, hiding the entrance to the immeasurable treasure trove. Many have given their lives to the search and over the years the rumors have faded to legend.\n\nBut the most courageous adventurers will not be discouraged by bloodshed. On this day, a knight steps into the darkness, her gloved hand gripping the hilt of her sword. Her years of quests--all of the victories and defeats--have led to this one final adventure. Knowing the kingdom can never truly be at peace with the dragon beneath the cave, she has come to make a final stand. Little does she know that she will awake everything that slumbers in the shadows&hellip; and begin the final battle in the darkness.\n\nEnter the world of Vast: The Crystal Caverns!\n\nVast takes you and your friends into the torch light of a classic cave-crawling adventure, built on the concept of total asymmetry. Gone are days of the merry band of travelers fighting off evil. In Vast, you will become part of a new legend... Any part you wish!\n\nPlay as the classic, daring Knight, the chaotic Goblin horde, the colossal, greedy Dragon, or even the Cave itself &mdash; powerful, brooding, and intent on crushing the living things that dare to disturb its gloomy depths. Each role has its own powers, pieces, and paths to victory...and there can be only one winner.\n\nAs the ultimate asymmetric board game, Vast: The Crystal Caverns provides a limitless adventure, playable again and again as you and your friends explore the four different roles in different combinations. Play one-on-one in a race to the death between the Knight and the Goblins, or add in the Dragon and the Cave for deeper and more epic experiences, different every time.",
+    "categories": "Adventure, Exploration, Fantasy, Print & Play",
+    "mechanics": "Action Points, Dice Rolling, Grid Movement, Hand Management, Line of Sight, Modular Board, Pick-up and Deliver, Pieces as Map, Role Playing, Secret Unit Deployment, Take That, Tile Placement, Variable Player Powers",
     "expansions": []
   },
   {
@@ -1049,45 +1478,29 @@ const gamesData = [
     "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "age": "10+",
     "best_players": "3",
+    "image_url": "https://cf.geekdo-images.com/81AiTz4hp4TlnzeCMqQMAw__original/img/YJv_Ah9d-me5hoy9s49g3eW1h3c=/0x0/filters:format(jpeg)/pic6091316.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/81AiTz4hp4TlnzeCMqQMAw__small/img/4i2gR6ZpAY3pCBJ-n4681BGhrUU=/fit-in/200x150/filters:strip_icc()/pic6091316.jpg",
+    "description": "Zombicide, the board game, has taken the world by storm with over two million copies sold since its release in 2012 and spawning a cult franchise of cooperative zombie slaying all over the world. In Zombicide, zombies are controlled by the game, while players take on the role of survivors who must co-operate in order to survive and thrive in a world overrun by the bloodthirsty undead. Find guns and gear to take the fight to the zombies through 25 different scenarios linked by a branching story as you pick your way through an infested city.\n\nZombicide (2nd Edition) features refined and streamlined rules, including updates to target priority for ranged attacks, interactions with doors, and vehicle mechanisms.  A new dark zone feature, a zone that hides zombies from survivor's attacks, has been added as well. Zombicide (2nd Edition) will include new components and miniatures as well, including plastic dashboards and new child survivors. Returning players will be able to use their existing collection from previous Zombicide releases as well.",
+    "categories": "Fighting, Horror, Miniatures, Science Fiction, Zombies",
+    "mechanics": "Action Points, Cooperative Game, Dice Rolling, Modular Board, Multiple Maps, Scenario / Mission / Campaign Game, Variable Player Powers",
     "expansions": []
   },
   {
-    "name": "Dominion: Alchimia",
-    "itemtype": "expansion",
-    "minplayers": 2,
-    "maxplayers": 4,
-    "minplaytime": 30,
-    "maxplaytime": 30,
-    "year": "2010",
-    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
-    "age": "10+",
-    "best_players": "3",
-    "expansions": []
-  },
-  {
-    "name": "Munchkinomicon",
-    "itemtype": "expansion",
+    "name": "futuRisiKo!",
+    "itemtype": "standalone",
     "minplayers": 3,
     "maxplayers": 6,
-    "minplaytime": 90,
-    "maxplaytime": 90,
-    "year": "2011",
-    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
-    "age": "12+",
-    "best_players": "4,5",
-    "expansions": []
-  },
-  {
-    "name": "Il Trono di Spade: Il Gioco da Tavolo (Seconda Edizione) \u2013 La Madre dei Draghi",
-    "itemtype": "expansion",
-    "minplayers": 3,
-    "maxplayers": 8,
-    "minplaytime": 120,
-    "maxplaytime": 240,
-    "year": "2019",
+    "minplaytime": 180,
+    "maxplaytime": 180,
+    "year": "2012",
     "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
-    "age": "14+",
-    "best_players": "6",
+    "age": "12+",
+    "best_players": "4,5,6",
+    "image_url": "https://cf.geekdo-images.com/gsBunUB_IG--UQB7wImVKg__original/img/OcJGdnfPYPLsYT6SKnqKT3WE09c=/0x0/filters:format(jpeg)/pic4744843.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/gsBunUB_IG--UQB7wImVKg__small/img/etvA8-8PSvZDB4uQyLfwPiQvCPU=/fit-in/200x150/filters:strip_icc()/pic4744843.jpg",
+    "description": "In this game by Editrice Giochi, players use cards to build up armies with production points. The actual gameplay is similar to Risk, with players taking it in turns to produce units, move them and then perform combat by rolling dice. The twist, and the major way in which it differs from Risk, is in the different unit types.\nLand, Sea and Air forces may all be built, with differing movement and combat abilities. For example, air units move further and determine  first firer in combat, but cost more to build.\nIn short, I would describe this game as \"Risk with attitude\", and is definitely preferable to normal risk. It is less luck-based, due to special dice used for combat.",
+    "categories": "Modern Warfare, Wargame",
+    "mechanics": "Area Movement, Dice Rolling, Hand Management",
     "expansions": []
   }
 ];

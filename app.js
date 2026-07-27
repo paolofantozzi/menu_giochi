@@ -116,28 +116,55 @@ const app = {
       `;
     }
 
+    const categories = game.categories ? game.categories.split(',').map(c => c.trim()).slice(0, 3) : [];
+    const mechanics = game.mechanics ? game.mechanics.split(',').map(m => m.trim()).slice(0, 3) : [];
+    
+    let tagsHtml = '';
+    if (categories.length || mechanics.length) {
+      tagsHtml = `
+        <div class="game-tags">
+          ${categories.map(c => `<span class="tag category">${c}</span>`).join('')}
+          ${mechanics.map(m => `<span class="tag mechanic">${m}</span>`).join('')}
+        </div>
+      `;
+    }
+
+    const imageHtml = game.image_url ? 
+      `<div class="game-image-container"><img class="game-image" src="${game.image_url}" alt="Cover di ${game.name}" loading="lazy"></div>` : 
+      (game.thumbnail_url ? `<div class="game-image-container"><img class="game-image" src="${game.thumbnail_url}" alt="Cover di ${game.name}" loading="lazy"></div>` : 
+      `<div class="game-image-container placeholder"><div class="empty-icon">🎲</div></div>`);
+
     return `
       <div class="game-card">
-        <div class="game-header">
-          <h2 class="game-title">${game.name}</h2>
-          <span class="game-year">${game.year !== '0' ? game.year : ''}</span>
-        </div>
-        
-        <div class="game-stats">
-          <div class="stat-badge" title="Giocatori">
-            <span class="stat-icon">👥</span>
-            <span class="stat-value">${game.minplayers === game.maxplayers ? game.minplayers : `${game.minplayers} - ${game.maxplayers}`}</span>
+        <div class="game-content">
+          ${imageHtml}
+          <div class="game-details">
+            <div class="game-header">
+              <h2 class="game-title">${game.name}</h2>
+              <span class="game-year">${game.year && game.year !== '0' ? game.year : ''}</span>
+            </div>
+            
+            <div class="game-stats">
+              <div class="stat-badge" title="Giocatori">
+                <span class="stat-icon">👥</span>
+                <span class="stat-value">${game.minplayers === game.maxplayers ? game.minplayers : `${game.minplayers} - ${game.maxplayers}`}</span>
+              </div>
+              <div class="stat-badge" title="Durata">
+                <span class="stat-icon">⏱️</span>
+                <span class="stat-value">${game.minplaytime === game.maxplaytime ? game.maxplaytime : `${game.minplaytime} - ${game.maxplaytime}`}'</span>
+              </div>
+              ${game.age && game.age !== '0' ? `<div class="stat-badge" title="Età consigliata"><span class="stat-icon">🎂</span><span class="stat-value">${game.age}</span></div>` : ''}
+            </div>
+            
+            ${tagsHtml}
+            
+            <div class="game-desc">
+              ${game.best_players ? `<p><strong>Ideale per:</strong> ${game.best_players} giocatori</p>` : ''}
+              ${game.language_dependence ? `<p><strong>Lingua:</strong> ${game.language_dependence}</p>` : ''}
+            </div>
+            
+            ${game.description ? `<div class="game-description">${game.description}</div>` : ''}
           </div>
-          <div class="stat-badge" title="Durata">
-            <span class="stat-icon">⏱️</span>
-            <span class="stat-value">${game.minplaytime === game.maxplaytime ? game.maxplaytime : `${game.minplaytime} - ${game.maxplaytime}`}'</span>
-          </div>
-          ${game.age && game.age !== '0' ? `<div class="stat-badge" title="Età consigliata"><span class="stat-icon">🎂</span><span class="stat-value">${game.age}</span></div>` : ''}
-        </div>
-        
-        <div class="game-desc">
-          ${game.best_players ? `<p><strong>Ideale per:</strong> ${game.best_players} giocatori</p>` : ''}
-          ${game.language_dependence ? `<p><strong>Lingua:</strong> ${game.language_dependence}</p>` : ''}
         </div>
         
         ${expansionsHtml}
