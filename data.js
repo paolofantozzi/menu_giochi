@@ -545,25 +545,25 @@ const gamesData = [
     "description": "Exploding Kittens is a kitty-powered version of Russian Roulette. Players take turns drawing cards until someone draws an exploding kitten and loses the game. The deck is made up of cards that let you avoid exploding by peeking at cards before you draw, forcing your opponent to draw multiple cards, or shuffling the deck.\n\nThe game gets more and more intense with each card you draw because fewer cards left in the deck means a greater chance of drawing the kitten and exploding in a fiery ball of feline hyperbole.",
     "categories": "Animals, Card Game, Comic Book / Strip, Humor",
     "mechanics": "Hand Management, Hot Potato, Player Elimination, Push Your Luck, Set Collection, Take That",
-    "expansions": []
-  },
-  {
-    "name": "Exploding Kittens: Edizione VM18",
-    "itemtype": "standalone",
-    "minplayers": 2,
-    "maxplayers": 5,
-    "minplaytime": 10,
-    "maxplaytime": 20,
-    "year": "2018",
-    "language_dependence": "Some necessary text - easily memorized or small crib sheet",
-    "age": "14+",
-    "best_players": "4,5",
-    "image_url": "https://cf.geekdo-images.com/_9v_15rJjapltOr0I74uJQ__original/img/5-sylqMMDS3r8RelWDrcNQJiUSE=/0x0/filters:format(png)/pic9005066.png",
-    "thumbnail_url": "https://cf.geekdo-images.com/_9v_15rJjapltOr0I74uJQ__small/img/RG3VraWEZaezik-9vAA0ksN4MZI=/fit-in/200x150/filters:strip_icc()/pic9005066.png",
-    "description": "Originally an expansion for Exploding Kittens, the most successful Kickstarer project ever, that contained cards that were too horrific and/or incredible to be included in a kid safe version. As a stretch goal this was turned into a stand alone game that can be combined with the standard Exploding Kittens deck. If you combine the two decks, you can go up to 9 players. 10 with Imploding Kittens",
-    "categories": "Animals, Card Game, Comic Book / Strip, Humor, Mature / Adult",
-    "mechanics": "Hand Management, Player Elimination, Push Your Luck, Set Collection, Take That",
-    "expansions": []
+    "expansions": [
+      {
+        "name": "Exploding Kittens: Edizione VM18",
+        "itemtype": "expansion",
+        "minplayers": 2,
+        "maxplayers": 5,
+        "minplaytime": 10,
+        "maxplaytime": 20,
+        "year": "2018",
+        "language_dependence": "Some necessary text - easily memorized or small crib sheet",
+        "age": "14+",
+        "best_players": "4,5",
+        "image_url": "https://cf.geekdo-images.com/_9v_15rJjapltOr0I74uJQ__original/img/5-sylqMMDS3r8RelWDrcNQJiUSE=/0x0/filters:format(png)/pic9005066.png",
+        "thumbnail_url": "https://cf.geekdo-images.com/_9v_15rJjapltOr0I74uJQ__small/img/RG3VraWEZaezik-9vAA0ksN4MZI=/fit-in/200x150/filters:strip_icc()/pic9005066.png",
+        "description": "Originally an expansion for Exploding Kittens, the most successful Kickstarer project ever, that contained cards that were too horrific and/or incredible to be included in a kid safe version. As a stretch goal this was turned into a stand alone game that can be combined with the standard Exploding Kittens deck. If you combine the two decks, you can go up to 9 players. 10 with Imploding Kittens",
+        "categories": "Animals, Card Game, Comic Book / Strip, Humor, Mature / Adult",
+        "mechanics": "Hand Management, Player Elimination, Push Your Luck, Set Collection, Take That"
+      }
+    ]
   },
   {
     "name": "Harmonies",
