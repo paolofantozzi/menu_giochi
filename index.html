@@ -150,6 +150,32 @@
       transition: transform 0.2s, box-shadow 0.2s;
       display: flex;
       flex-direction: column;
+      cursor: pointer;
+    }
+
+    .game-card:focus-visible {
+      outline: none;
+      border-color: var(--primary);
+      box-shadow: 0 0 0 3px var(--primary-glow);
+    }
+
+    .card-hint {
+      display: inline-block;
+      margin-top: 14px;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--primary);
+      opacity: 0;
+      transition: opacity 0.2s;
+    }
+
+    .game-card:hover .card-hint,
+    .game-card:focus-visible .card-hint {
+      opacity: 1;
+    }
+
+    @media (hover: none) {
+      .card-hint { opacity: 1; }
     }
 
     .game-content {
@@ -452,33 +478,178 @@
 
     .close-button {
       position: absolute;
-      top: 16px;
-      right: 20px;
+      top: 12px;
+      right: 16px;
+      background: rgba(15, 23, 42, 0.75);
+      border: 1px solid var(--border);
+      border-radius: 50%;
+      width: 36px;
+      height: 36px;
+      line-height: 1;
       color: var(--text-muted);
-      font-size: 28px;
-      font-weight: bold;
+      font-family: inherit;
+      font-size: 24px;
       cursor: pointer;
       z-index: 10;
-      transition: color 0.2s;
+      transition: color 0.2s, background 0.2s;
     }
 
     .close-button:hover {
       color: var(--text-main);
+      background: var(--surface-hover);
     }
 
-    #modal-body .game-card {
-      border: none;
-      box-shadow: none;
-      margin: 0;
-    }
-    
-    #modal-body .game-card:hover {
-      transform: none;
+    body.modal-open {
+      overflow: hidden;
     }
 
     @keyframes modalFadeIn {
       from { opacity: 0; transform: scale(0.95); }
       to { opacity: 1; transform: scale(1); }
+    }
+
+    /* Scheda completa del gioco */
+    .game-detail {
+      padding: 28px 28px 32px;
+    }
+
+    .modal-back {
+      background: none;
+      border: none;
+      color: var(--primary);
+      font-family: inherit;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      padding: 0;
+      margin-bottom: 20px;
+      transition: color 0.2s;
+    }
+
+    .modal-back:hover {
+      color: #60a5fa;
+    }
+
+    .detail-hero {
+      display: flex;
+      gap: 24px;
+      align-items: flex-start;
+      padding-right: 40px;
+    }
+
+    .game-image-container.detail-image {
+      width: 200px;
+      height: 200px;
+    }
+
+    .detail-heading {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .detail-title {
+      font-size: 26px;
+      font-weight: 700;
+      line-height: 1.2;
+      margin-bottom: 10px;
+    }
+
+    .detail-badge {
+      display: inline-block;
+      background: rgba(245, 158, 11, 0.15);
+      border: 1px solid rgba(245, 158, 11, 0.3);
+      color: #fcd34d;
+      font-size: 12px;
+      font-weight: 600;
+      padding: 3px 10px;
+      border-radius: 6px;
+      margin-bottom: 14px;
+    }
+
+    .detail-section {
+      margin-top: 28px;
+    }
+
+    .detail-section-title {
+      font-size: 13px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--text-muted);
+      margin-bottom: 12px;
+    }
+
+    .detail-section .game-tags {
+      margin-top: 0;
+    }
+
+    .detail-table {
+      display: flex;
+      flex-direction: column;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+
+    .detail-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 16px;
+      padding: 10px 14px;
+      font-size: 14px;
+      background: rgba(0, 0, 0, 0.15);
+    }
+
+    .detail-row + .detail-row {
+      border-top: 1px solid var(--border);
+    }
+
+    .detail-row dt {
+      color: var(--text-muted);
+    }
+
+    .detail-row dd {
+      color: var(--text-main);
+      font-weight: 500;
+      text-align: right;
+    }
+
+    .detail-description {
+      font-size: 15px;
+      color: #cbd5e1;
+      line-height: 1.65;
+    }
+
+    .detail-description p + p {
+      margin-top: 12px;
+    }
+
+    @media (max-width: 600px) {
+      .game-detail {
+        padding: 24px 18px 28px;
+      }
+      .detail-hero {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding-right: 0;
+      }
+      .game-image-container.detail-image {
+        width: 100%;
+        max-width: 250px;
+        height: 200px;
+      }
+      .detail-hero .game-stats {
+        justify-content: center;
+      }
+      .detail-row {
+        flex-direction: column;
+        gap: 2px;
+      }
+      .detail-row dd {
+        text-align: left;
+      }
     }
   </style>
 </head>
@@ -520,14 +691,15 @@
     </main>
   </div>
 
-  <div id="expansion-modal" class="modal">
+  <div id="detail-modal" class="modal" role="dialog" aria-modal="true" aria-label="Scheda del gioco">
     <div class="modal-content">
-      <span class="close-button" id="close-modal">&times;</span>
+      <button class="close-button" id="close-modal" aria-label="Chiudi">&times;</button>
       <div id="modal-body"></div>
     </div>
   </div>
 
   <script src="data.js"></script>
+  <script src="i18n.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
