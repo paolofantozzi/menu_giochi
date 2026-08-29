@@ -501,7 +501,7 @@ const gamesData = [
     "minplaytime": 30,
     "maxplaytime": 90,
     "year": "2025",
-    "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
+    "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "age": "8+",
     "best_players": "2",
     "image_url": "https://cf.geekdo-images.com/fznRvIx6a-rU56Ly0RqpTA__original/img/paFybadRTxcWLuQr2xkSMzAULQA=/0x0/filters:format(jpeg)/pic8305438.jpg",
@@ -1142,6 +1142,24 @@ const gamesData = [
         "mechanics": "Acting, Cooperative Game, Hand Management, Pattern Recognition, Voting"
       }
     ]
+  },
+  {
+    "name": "Orcs up!",
+    "itemtype": "standalone",
+    "minplayers": 2,
+    "maxplayers": 6,
+    "minplaytime": 30,
+    "maxplaytime": 30,
+    "year": "2026",
+    "language_dependence": "",
+    "age": "8+",
+    "best_players": "3,5",
+    "image_url": "https://cf.geekdo-images.com/MKiuvWg7AVliGWDt_sv4pA__original/img/IyWy00NSVjE9G-vTb4RY2eXeM5I=/0x0/filters:format(jpeg)/pic9245725.jpg",
+    "thumbnail_url": "https://cf.geekdo-images.com/MKiuvWg7AVliGWDt_sv4pA__small/img/-GnmBf7fWwhIj6yIyqUg4WUJneY=/fit-in/200x150/filters:strip_icc()/pic9245725.jpg",
+    "description": "Here's the plan: stack your bumbling orcs up a castle wall and reach the top.\nEasy peasy.\nExcept your opponents had the exact same idea, and they've got boulders, tricks, and a competitive streak a mile wide.\n\nWelcome to Orcs Up!, where controlled chaos is the name of the game.\n\nEvery round throws you into a tornado of frantic card plays, stacking, and climbing your way to victory while your tower constantly threatens to crumble.\n\nVictory loves the bold.\n\n—description from the publisher",
+    "categories": "Action / Dexterity, Fantasy, Medieval",
+    "mechanics": "Stacking and Balancing",
+    "expansions": []
   },
   {
     "name": "Orlog: Assassin's Creed Valhalla Dice Game",
