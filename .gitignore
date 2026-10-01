@@ -1,2 +1,17 @@
+# Local-only data and scripts (not part of the published site)
 *.csv
 *.py
+links.json
+.env
+
+# Development machinery and tooling (not part of the published site)
+CLAUDE.md
+.claude/
+.devcontainer/
+.githooks/
+.cdforge.json
+-home-*/
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+__pycache__/

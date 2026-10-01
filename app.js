@@ -236,6 +236,11 @@ const app = {
         }
       });
 
+      card.querySelectorAll('.quick-link').forEach(link => {
+        link.addEventListener('click', (e) => e.stopPropagation());
+        link.addEventListener('keydown', (e) => e.stopPropagation());
+      });
+
       const toggle = card.querySelector('.expansions-toggle');
       if (toggle) {
         toggle.addEventListener('click', (e) => {
@@ -334,6 +339,65 @@ const app = {
     }).join('');
   },
 
+  // Collegamenti a istruzioni in italiano e video tutorial
+  youtubeUrl(id) {
+    return `https://www.youtube.com/watch?v=${id}`;
+  },
+
+  quickLinksHtml(game) {
+    const rule = game.rules && game.rules[0];
+    const video = game.videos && game.videos[0];
+    if (!rule && !video) return '';
+    return `
+      <div class="quick-links">
+        ${rule ? `<a class="quick-link" href="${rule.url}" target="_blank" rel="noopener" title="Istruzioni in italiano">📖 Istruzioni</a>` : ''}
+        ${video ? `<a class="quick-link" href="${this.youtubeUrl(video.id)}" target="_blank" rel="noopener" title="${video.title.replace(/"/g, '&quot;')}">▶ Video tutorial</a>` : ''}
+      </div>
+    `;
+  },
+
+  resourcesHtml(game) {
+    const rules = game.rules || [];
+    const videos = game.videos || [];
+    const extra = game.links || [];
+    const searchName = encodeURIComponent(game.name.replace(/\(.*?\)/g, '').trim());
+    const bggFiles = game.bgg_id ? `https://boardgamegeek.com/boardgame/${game.bgg_id}/files` : null;
+
+    const ruleRows = rules.concat(extra).map(r => `
+      <a class="resource-row" href="${r.url}" target="_blank" rel="noopener">
+        <span class="resource-icon">${rules.includes(r) ? '📖' : '🔗'}</span>
+        <span class="resource-title">${r.title}</span>
+        <span class="resource-go">Apri &rarr;</span>
+      </a>
+    `).join('');
+
+    const videoCards = videos.map(v => `
+      <a class="video-card" href="${this.youtubeUrl(v.id)}" target="_blank" rel="noopener">
+        <span class="video-thumb">
+          <img src="https://i.ytimg.com/vi/${v.id}/mqdefault.jpg" alt="" loading="lazy">
+          <span class="video-play">▶</span>
+        </span>
+        <span class="video-title">${v.title}</span>
+        <span class="video-channel">${v.channel}</span>
+      </a>
+    `).join('');
+
+    return `
+      <section class="detail-section">
+        <h3 class="detail-section-title">Istruzioni in italiano</h3>
+        ${ruleRows ? `<div class="resource-list">${ruleRows}</div>` : '<p class="resource-empty">Nessuna istruzione in italiano trovata finora.</p>'}
+        ${bggFiles ? `<a class="resource-more" href="${bggFiles}" target="_blank" rel="noopener">Altri file su BoardGameGeek &rarr;</a>` : ''}
+      </section>
+
+      <section class="detail-section">
+        <h3 class="detail-section-title">Video tutorial</h3>
+        ${videoCards ? `<div class="video-grid">${videoCards}</div>` : '<p class="resource-empty">Nessun video tutorial selezionato.</p>'}
+        <a class="resource-more" href="https://www.youtube.com/results?search_query=${searchName}+tutorial" target="_blank" rel="noopener">Cerca altri tutorial su YouTube &rarr;</a>
+        <a class="resource-more" href="https://www.youtube.com/@MissMeeple/search?query=${searchName}" target="_blank" rel="noopener">Cerca sul canale Miss Meeple &rarr;</a>
+      </section>
+    `;
+  },
+
   // --- Scheda in elenco ---------------------------------------------------
 
   createCard(game) {
@@ -379,6 +443,8 @@ const app = {
             </div>
 
             ${description ? `<div class="game-description">${description}</div>` : ''}
+
+            ${this.quickLinksHtml(game)}
 
             <span class="card-hint">Clicca per la scheda completa</span>
           </div>
@@ -458,6 +524,8 @@ const app = {
             </div>
           </section>
         ` : ''}
+
+        ${this.resourcesHtml(game)}
 
         ${descriptionHtml ? `
           <section class="detail-section">
